@@ -5,4 +5,4 @@
 * Name: Max Mustermann  
 * Adresse: Musterstraße, Musterhausen  
 
-Dies ist [ein Beispiel](https://www.google.de/ "Google")
+Dies ist die Website von [Google l](https://www.google.de/ "Google")
