@@ -1,4 +1,7 @@
 # Kontakt
-Max Mustermann  
-Musterstraße 1  
-Musterhausen  
+
+***
+
+* Name: Max Mustermann
+* Adresse: Musterstraße, Musterhausen
+
