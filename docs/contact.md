@@ -5,4 +5,4 @@
 * Name: Max Mustermann  
 * Adresse: Musterstraße, Musterhausen  
 
-Dies ist die [Nummer](https://fprass99.github.io/homepage-testen/number.html "Max Nummer" von Max Mustermann
+Dies ist Max Mustermann's [Nummer](https://fprass99.github.io/homepage-testen/number.html "Max Nummer"
