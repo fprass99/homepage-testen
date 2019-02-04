@@ -13,14 +13,3 @@ Test
 ------- | -------
 Text für Zeile 1 | Text für Zeile 2
 weiterer Text für Zeile 1 | weiterer Text für Zeile 2
-
-
-&nbsp;
-
-
-&nbsp;
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
