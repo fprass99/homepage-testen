@@ -26,3 +26,8 @@ weiterer Text für Zeile 1 | weiterer Text für Zeile 2
 
 &nbsp;
 ![Evosec Bild](https://www.evosec.de/files/8212/9786/1329/hdpic.jpg)
+
+- [x] erste Zeile Ja
+- [ ] zweite Zeile Nein
+- [ ] dritte Zeile Nein
+- [x] vierte Zeile Ja
