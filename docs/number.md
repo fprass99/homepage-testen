@@ -16,7 +16,7 @@ weiterer Text für Zeile 1 | weiterer Text für Zeile 2
 
 | 123| 456 |789 |
 |:---|:---:|---:|
-| abc| def |[ghi](https://fprass99.github.io/homepage-testen/Index.html "ghi") |
+| abc| def |[ghi](https://fprass99.github.io/homepage-testen/index.html "ghi") |
 |    |     |    |
 |    |     |    |
 
