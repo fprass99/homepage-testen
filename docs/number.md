@@ -25,4 +25,4 @@ weiterer Text für Zeile 1 | weiterer Text für Zeile 2
 
 
 &nbsp;
-![Evosec Bild](https://www.evosec.de/files/8212/9786/1329/hdpic.jpg =100x100)
+![Evosec Bild](https://www.evosec.de/files/8212/9786/1329/hdpic.jpg)
