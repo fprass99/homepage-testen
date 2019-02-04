@@ -13,8 +13,5 @@ ___Test___
 >>Dies ist ein Zitat im Zitat
 
 **Eine Auflistung der Tiere Von Max** 
-1. Pferd
-  2. Esel
-  
-
-  
+* Pferd
+  * Esel
