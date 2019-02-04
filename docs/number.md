@@ -14,8 +14,8 @@ Test
 Text für Zeile 1 | Text für Zeile 2
 weiterer Text für Zeile 1 | weiterer Text für Zeile 2
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|123|456|789|
+|---|---|---|
+|abc|def|ghi|
+|   |   |   |
+|   |   |   |
