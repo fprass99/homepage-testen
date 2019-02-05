@@ -46,3 +46,9 @@ nav {
     background-color: lightgray;
     word-spacing: 5em;
 }
+
+a:focus
+a:hover
+a:active{
+    text-decoration: underline;
+}
