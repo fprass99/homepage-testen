@@ -37,3 +37,7 @@ nav a {
     color: gold;
     background-color: darkblue;
 }
+nav {
+    font-size: 1.5em;
+    text-align: center;
+}
