@@ -34,8 +34,8 @@ nav li {
 nav a {
     text-decoration: none;
     font-weight: bold;
-    color: gold;
-    background-color: darkblue;
+    color: black;
+    background-color: white;
 }
 nav {
     font-size: 1.5em;
@@ -43,4 +43,6 @@ nav {
     margin: 1em;
     border: 1px solid;
     padding: 2em;
+    background-color: lightgray;
+
 }
