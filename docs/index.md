@@ -1,3 +1,7 @@
+---
+logo: false
+---
+
 # Markdown
 Ist toll.  
 Test
