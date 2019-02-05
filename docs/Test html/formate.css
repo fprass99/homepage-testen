@@ -18,3 +18,12 @@ tr{font-size: 1.7em;}
     font-family: serif;
     text-align: right;
 }
+
+#menü {
+    border-width: thin;
+    border-style: solid;
+    background-color: blue;
+    padding-right: 1em;
+    float: left;
+    padding-left: 1em; 
+}
