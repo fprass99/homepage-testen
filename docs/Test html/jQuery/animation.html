@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<script src="jquery-3.3.1.min.js"></script>
+<style>
+    #viereck{
+        width: 200px;
+        height: 200px;
+        background-color:aquamarine; 
+    }
+</style>
+</head>
+<body>
+    <div id="viereck"> 
+
+    </div>
+    <script>
+        var aktiv = true
+        
+        $("#viereck").click(function(){
+            if(aktiv){
+            $("#viereck").animate({width:"400px",height:"400px",
+            marginLeft:"50px",marginTop:"50px",
+            borderRadius:"50%"},1000,function(){
+                $(this).css("backgroundColor","lightgreen");
+                aktiv = false;    
+                })
+                .fadeOut(1000, function(){
+                    $(this).fadeIn(1000, function(){
+                        $(this).css("backgroundColor","lightblue");
+                    });
+                });
+            }else{
+                $("#viereck").animate({width:"200px",height:"200px",
+            marginLeft:"0px",marginTop:"0px",
+            borderRadius:"0%"},1000,function(){
+                $("#viereck").css("backgroundColor","aquamarin");
+                aktiv = true;
+                });
+            }
+        });
+    </script>
+</body>
+</html>

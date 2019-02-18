@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+    <meta charset="utf-8">
+    <title>Array</title>
+
+    </head>
+    <body>
+      <script>
+          var ZahlenArray = new Array (0,1,2,3,4,5,6,7,8,9);
+          var ProduktArray = new Array ("Galaxy S1","Galaxy S2","Galaxy S3","Galaxy S4","Galaxy S5");
+          var ausgegliederteProdukt = ProduktArray.pop();
+          console.log(ausgegliederteProdukt);
+          console.log(ProduktArray.pop());
+          console.log(ProduktArray);
+          ProduktArray.push("Galaxy S6");
+          console.log(ProduktArray);
+          var erstesProdukt = ProduktArray.shift();
+          console.log(erstesProdukt);
+          ProduktArray.unshift("Galaxy S7","Galaxy S8");
+          console.log(ProduktArray);
+          ProduktArray.splice(2,0, "Galaxy S1","Galaxy S5");
+          console.log(ProduktArray);
+          ProduktArray.sort();
+          console.log(ProduktArray);
+          ProduktArray.splice(3,0, "Galaxy S4");
+          ProduktArray.reverse();
+          console.log(ProduktArray);
+      </script>
+    </body>    
+</html>

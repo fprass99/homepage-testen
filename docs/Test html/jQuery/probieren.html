@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<script src="jquery-3.3.1.min.js"></script>
+<style>
+  .ht{  
+      
+  }
+</style>
+</head>
+<body>
+    <div id="menuleiste">
+        <br>
+        <a href="12">Startseite</a>
+        <a href="12">Seite1</a>
+        <a href="12">Seite2</a>
+        <label id="suchen">Suchen:</label>
+        <input type="text" id="suche">
+    </div>
+   <h1>Die Webseite der Webseiten!</h1>
+   <div id="textfeld">
+        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
+            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+            in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p id="text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
+            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
+            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+            in culpa qui officia deserunt mollit anim id est laborum.</p>  
+   </div>
+    <script>
+      $("#menuleiste").css({backgroundColor:"lightblue",height:"50px",textAlign:"center",wordSpacing:"100px",display:"block-line",position:"relative"});
+      $("h1").css({textAlign:"center"});
+      $("#textfeld").css({backgroundColor:"lightblue",maxWidth:"80%",height:"500px",margin:"0 auto",position:"relative"});
+      $("#text").css({maxWidth:"300px",float:"left",fontSize:"20px",margin:"30px 30px",position:"absolute"});
+      $("#text2").css({maxWidth:"300px",fontSize:"20px",margin:"30px 30px",float:"right",position:"absolute"});
+      $("#suche").css({right:"30px",position:"absolute"});
+      $("#suchen").css({position:"absolute",marginLeft:"500px"});
+    </script>
+</body>
+</html>

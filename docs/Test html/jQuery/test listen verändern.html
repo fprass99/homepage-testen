@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<script src="jquery-3.3.1.min.js"></script>
+<style>
+   
+</style>
+</head>
+<body>
+    <div>
+        <input type="text" id="name" name="name">
+            <ul id="list">
+                <li>erste zeile</li>
+                <li>zweite zeile</li>
+                <li>dritte zeile</li>
+                <li>vierte zeile</li>
+                <li>fünfte zeile</li>
+                <li>sechste zeile</li>
+            </ul>
+    </div>        
+    <script>
+
+            $("#name").keyup(function(e){
+                var code = e.which;
+                console.log(code);
+            if(code==13){
+                e.preventDefault();
+                $("#list").append("<li>" + $("#name").val() + "</li>");
+                }
+            });
+            $("li").click(function(){
+                $(this).remove();
+            });
+       // $("#submit").click(function(e){
+       //     e.preventDefault();
+       //     alert($("#name").val());
+       //     $("#hallo").text("Hallo " + $("#name").val());
+       // }); 
+    </script>
+</body>
+</html>

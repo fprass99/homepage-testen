@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+</head>
+<body>
+<h1 id="top">Die Zufallszahl ist:</h1>
+<button id="button">Zufall</button>
+
+<script>
+    
+    var zufallszahl;
+    document.getElementById("button").onclick = function(){
+        zufallszahl = Math.floor(Math.random()*240);
+        zufallrot = Math.floor(Math.random()*256);
+        zufallgruen = Math.floor(Math.random()*256);
+        zufallblau = Math.floor(Math.random()*256);
+        document.getElementById("top").innerHTML = "Die Zufallszahl ist: " + zufallszahl;
+        document.getElementById("top").style.backgroundColor = 'rgb(' + zufallrot + ',' + zufallgruen + ',' + zufallblau +')';
+        
+    }
+
+
+
+   /*var anzahldereintraege = 0;
+   var gesamtwert = 0;
+   var input = "";
+   var inputnumber;
+
+    while(input != "0"){
+        input = prompt("Die nächste Zahl Bitte!");
+        if(parseInt(input)){
+        inputnumber = parseInt(input);
+        if(input  != 0){
+        gesamtwert += inputnumber;
+        anzahldereintraege++;
+        
+            }   
+        }else{
+            document.write("Du hast etwas anderes als eine Zahl eingegeben");
+            break;
+
+        }
+        if()
+    }
+     */ 
+    /*zahler = 0;
+    while(zahler <10){
+        document.write("zahler " + zahler + "<br>");
+        zahler++;
+    }
+    document.write("Fertig mit der Schleife");
+
+    var zahl = 10;
+    do{
+        
+        document.write("<br> zahl: " + zahl);
+        zahl--;
+    }while(zahl >=0);
+    document.write("<br>Fertig mit der Schleife");
+    */
+</script>
+</body>
+
+</html>

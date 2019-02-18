@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <style>
+    #zahl1{
+        margin: 5px;
+    }
+    #zahl2{
+        margin:  5px;
+    }
+    #button{
+        margin: 5px;
+    }
+    #ergebnis{
+        margin: 20px;
+    }
+    table{
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
+    th{
+        border: 1px solid black;
+        text-align: center;
+        width: 100px;
+        height: 30px;
+    }
+    td{
+        border: 1px solid black;
+        text-align: center;
+        width: 100px;
+        height: 30px;
+    }
+   
+    </style>
+</head>
+<body>
+    <input type="number" id="zahl1" placeholder="Zahl 1">
+    <br>
+    <input type="number" id="zahl2" placeholder="Zahl 2">
+    <br>
+    <button type="button" id="button">Rechnen</button>
+    <button type="button" id="reset">Reset</button>
+    <table>
+        <tr>
+            <th></th>
+            <th>Zahl 1</th>
+            <th>Zahl 2</th>
+        </tr>
+        <tr>
+            <td>Quadriert</td>
+            <td id="quadriert1">--</td>
+            <td id="quadriert2">--</td>
+        </tr>
+        <tr>
+            <td>Hoch drei</td>
+            <td id="hoch drei1">--</td>
+            <td id="hoch drei2">--</td>
+        </tr>
+        <tr>
+            <td>Hoch vier</td>
+            <td id="hoch vier1">--</td>
+            <td id="hoch vier2">--</td>
+        </tr>
+        <tr>
+            <td>Addiert</td>
+            <td id="ergebnis" colspan="2">--</td>
+        </tr>
+    </table>  
+    <script>
+        document.getElementById("button").onclick = function (){
+            console.log(zahl1);
+            var zahl1 = document.getElementById("zahl1").value;
+            var zahl2 = document.getElementById("zahl2").value;
+            addieren (zahl1,zahl2)
+            hochrechnen(zahl1,zahl2)
+        }
+        
+        function addieren(zahl1, zahl2){
+            zahl1 = parseInt(zahl1);
+            zahl2 = parseInt(zahl2);
+            console.log(zahl1+zahl2);
+            document.getElementById("ergebnis").innerHTML = (zahl1 + zahl2);
+        }
+        function hochrechnen(zahl1, zahl2){
+       // console.log("Quadrieren: " + zahl1*zahl1);
+       // console.log("Hoch drei: " + zahl1*zahl1*zahl1);
+       // console.log("Hoch vier: " + zahl1*zahl1*zahl1*zahl1);
+       //   document.getElementById("quadriert1").innerHTML = "Quadriert: " + zahl1*zahl1;
+       //   document.getElementById("hoch drei1").innerHTML = "Hoch drei: " + zahl1*zahl1*zahl1;
+       //   document.getElementById("hoch vier1").innerHTML = "Hoch vier: " + zahl1*zahl1*zahl1*zahl1;
+       //   document.getElementById("quadriert2").innerHTML = "Quadriert: " + zahl2*zahl2;
+       //   document.getElementById("hoch drei2").innerHTML = "Hoch drei: " + zahl2*zahl2*zahl2;
+       //   document.getElementById("hoch vier2").innerHTML = "Hoch vier: " + zahl2*zahl2*zahl2*zahl2;
+          document.getElementById("quadriert1").innerHTML = zahl1*zahl1;
+          document.getElementById("hoch drei1").innerHTML = zahl1*zahl1*zahl1;
+          document.getElementById("hoch vier1").innerHTML = zahl1*zahl1*zahl1*zahl1;
+          document.getElementById("quadriert2").innerHTML = zahl2*zahl2;
+          document.getElementById("hoch drei2").innerHTML = zahl2*zahl2*zahl2;
+          document.getElementById("hoch vier2").innerHTML = zahl2*zahl2*zahl2*zahl2;
+        }
+        document.getElementById("reset").onclick = function (){
+          document.getElementById("quadriert1").innerHTML = "--";
+          document.getElementById("hoch drei1").innerHTML = "--";
+          document.getElementById("hoch vier1").innerHTML = "--";
+          document.getElementById("quadriert2").innerHTML = "--";
+          document.getElementById("hoch drei2").innerHTML = "--";
+          document.getElementById("hoch vier2").innerHTML = "--";
+          document.getElementById("ergebnis").innerHTML = "--";
+          document.getElementById("zahl1").value ="";
+          document.getElementById("zahl2").value ="";  
+        }
+    </script>
+</body>
+</html>

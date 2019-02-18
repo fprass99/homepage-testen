@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <style>
+        .feld{
+            max-width: 600px;
+            background-color: lightskyblue;
+            margin: 0 auto;
+            padding: 15px 10px;
+            text-align: center;
+            border-radius: 10px;
+        }
+        /*#zitat{
+            width: 100%;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            position: absolute;
+            display: inline-block;
+
+        }*/
+        .feld2{
+            max-width: 600px;
+            text-align: center;
+            margin: 0 auto;
+
+        }
+        #text{
+            text-align: left;
+            top: 40px;
+            display: block;
+            font-size: 20px;
+        }
+        #autor{
+            text-align: left;
+            display: block;
+            font-style: italic;
+            font-size: 20px; 
+        }
+        #button{
+            width: 200px;
+            margin: 0 auto;
+            display: block;
+            height: 40px;
+            border-radius: 10px;
+            background-color: lightskyblue;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="feld">
+        <h1 id="zitat">Zitate</h1>
+    </div>
+    <div class="feld2">
+        <p id="text"></p>
+        <p id="autor"></p>
+    <button id="button">Zitat!</button>
+    </div>
+    <script>
+        zitateArray = ["Jeder möchte die Welt verbessern und jeder könnte es auch, wenn er nur bei sich selber anfangen wollte.",
+        "Wir gehen mit dieser Welt um, als hätten wir noch eine zweite im Kofferraum.",  
+        "Für die Welt bist du irgendjemand, aber für irgendjemand bist du die Welt.",
+        "Es wäre dumm, sich über die Welt zu ärgern. Sie kümmert sich nicht darum.",      
+        "Sei du selbst die Veränderung, die du dir wünschst für diese Welt."]
+        zitatautorArray = ["Karl Heinrich Waggerl","Jane Fonda","Erich Fried","Marcus Aurelius","Mahatma Gandhi"]
+        
+            var wdh = 0;
+            var zufallszahl = 0;
+            var range = zitateArray.length
+
+            zufallszahl = Math.floor(Math.random()*range);
+            document.getElementById("text").innerHTML = zitateArray[zufallszahl];
+            document.getElementById("autor").innerHTML = zitatautorArray[zufallszahl];
+
+        document.getElementById("button").onclick = function(){
+            while(zufallszahl == wdh){
+            zufallszahl = Math.floor(Math.random()*range);
+            }
+            if(zufallszahl != wdh){
+            document.getElementById("text").innerHTML = zitateArray[zufallszahl];
+            document.getElementById("autor").innerHTML = zitatautorArray[zufallszahl];
+            }
+            wdh = zufallszahl;
+            
+        }
+            
+         
+
+    </script>
+</body>
+</html>
