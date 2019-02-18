@@ -1,6 +1,8 @@
 ---
 logo: false
 title: Hallo Welt
+showNudelsuppe: true
+testText: Hallo Welt!!!
 ---
 
 # Markdown
