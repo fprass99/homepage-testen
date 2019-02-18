@@ -17,10 +17,22 @@
   </head>
   <body>
     <div class="wrapper">
+     
+      <div class="row" style="background-color: green">
+        <div class="col-md-12">Header mit Logo</div>
+        </div>
+        
+        <div class="row" style="background-color: yellow">
+          <div class="col-md-12">Menü</div>
+          </div>
       
-      <div class="row">
-      <div class="col-md-4 offset-md-4">{{ content }}</div>
+      <div class="row" style="background-color: grey">
+      <div class="col-md-12">{{ content }}</div>
       </div>
+
+      <div class="row" style="background-color: red">
+        <div class="col-md-12">Footer mit Untermenü</div>
+        </div>
 
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ c | default: site.github.repository_name }}</a></h1>
