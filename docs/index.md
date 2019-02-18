@@ -1,9 +1,9 @@
 ---
-logo: false
 title: Hallo Welt
 showNudelsuppe: true
 testText: Hallo Welt!!!
-Titelbild: ![Evosec Bild](evosec.jpg )
+Titelbild: evosec.jpg
+logo: true
 ---
 
 # Markdown
