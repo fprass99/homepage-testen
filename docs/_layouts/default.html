@@ -14,6 +14,14 @@
     <!-- NÖTIG um Interaktivität zu aktivieren-->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <style>
+    nav{
+      display: flex;
+    }
+    nav .Home{
+      flex: 1 1 0px;
+    }
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -25,9 +33,9 @@
         </div>
         
         <div class="row" style="background-color: #324152">
-          <div class="col-md-12">
-          <p><a>Home</a><a>Produkte</a><a>Support</a><a>Unternehmen</a></p>
-        </div>
+          <nav class="col-md-12">
+          <p>style="color:white"><a class="home">Home</a><a class="produkte">Produkte</a><a class="support">Support</a><a class="unternehmen">Unternehmen</a></p>
+        <nav>
 
           </div>
       
