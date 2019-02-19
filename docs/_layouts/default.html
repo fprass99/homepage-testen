@@ -31,6 +31,10 @@
     .bild{
       padding: 0px;
     }
+    .footer{
+      text-align: center;
+      height: 2em;
+    }
   </style>
   </head>
   <body>
@@ -64,9 +68,14 @@
       <div class="col-md-12">{{ content }}</div>
       </div>
 
-      <div class="row" style="background-color: red">
-        <div class="col-md-12">Footer mit Untermenü</div>
+      <div class="row" style="background-color:white">
+        <div class="col-md-12 footer">
+          <div>
+            <a href="#">Impressum</a>
+            <a href="#">Datenschutz</a>
+          </div>
         </div>
+      </div>
 
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ c | default: site.github.repository_name }}</a></h1>
@@ -94,12 +103,6 @@
         {% endif %}
       </header>
       <section>
-        <h2>Test</h2>
-        <ul>
-          <li>Projekt1</li>
-          <li>Projekt2</li>
-          <li>Projekt3</li>
-        </ul>
       
 
       </section>
