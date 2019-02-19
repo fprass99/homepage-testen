@@ -4,7 +4,7 @@ Monteure haben Urlaub trotz hoher Werkstattauslastung?<br>
 
 Terminplanung basiert auf Papier?<br>
 
-<h3>evoWTP -</h3>   bietet Ihnen die Lösung.
+<strong>evoWTP-<strong>   bietet Ihnen die Lösung.
 
 Der Werkstatt-Terminplaner evoWTP ermöglicht jederzeit eine aktuelle Übersicht über die Auslastung in den einzelnen Werkstätten. Hierbei ist eine Centerübergreifende Terminplanung mit individuellen Lese- und Schreibrechten umsetzbar. Die <br> integrierte Startime-Schnittstelle ermöglicht Ihnen eine unkomplizierte Abwesenheitsplanung.<br>
 Individuelle Ansichten und Reportmöglichkeiten (z.B. Tages-/Monatsauslastungsanzeige) geben eine detaillierte Übersicht über noch offene Termine. Eine frei konfigurierbare AW-Datenbank erlaubt den Serviceberatern/innen und Serviceassistenten/innen eine <br> schnelle und effektive Auftragsplanung.<br>
