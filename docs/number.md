@@ -1,33 +1,32 @@
-# Max Mustermann
+Fehlender Überblick bei den Werkstattterminen?<br>
+<br>
+Monteure haben Urlaub trotz hoher Werkstattauslastung?<br>
 
-* Telefonnummer:0123456789
+Terminplanung basiert auf Papier?<br>
 
+<h3>evoWTP -</h3>   bietet Ihnen die Lösung.
 
-&nbsp;
+Der Werkstatt-Terminplaner evoWTP ermöglicht jederzeit eine aktuelle Übersicht über die Auslastung in den einzelnen Werkstätten. Hierbei ist eine Centerübergreifende Terminplanung mit individuellen Lese- und Schreibrechten umsetzbar. Die <br> integrierte Startime-Schnittstelle ermöglicht Ihnen eine unkomplizierte Abwesenheitsplanung.<br>
+Individuelle Ansichten und Reportmöglichkeiten (z.B. Tages-/Monatsauslastungsanzeige) geben eine detaillierte Übersicht über noch offene Termine. Eine frei konfigurierbare AW-Datenbank erlaubt den Serviceberatern/innen und Serviceassistenten/innen eine <br> schnelle und effektive Auftragsplanung.<br>
+Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gegensatz zu Microsoft Excel, wesentlich größere Datenmengen verarbeiten kann. Zahlreiche Schnittstellen, wie zum Beispiel zum EKS-Kundendatenmanagement, Alpha Plus oder<br> evoMIS, zeichnen den Terminplaner evoWTP aus.<br>
+<br>
 
+img<br>
+<br>
+######Vorteile der Werkstattplanung
 
-&nbsp;
-Test
++ aktuelle Auslastungsübersicht (Tag/Woche/Monat)
++ Terminplanung pro Center/Annehmer
++ verschiedene Reportmöglichkeiten
++ frei konfigurierbare AW-Datenbank
++ Erinnerungsfunktion für Hol-/Bringservice und Folgetermine
++ farbige Darstellung der verschiedenen Auftragstypen
 
-1 Zeile | 2 Zeile
-------- | -------
-Text für Zeile 1 | Text für Zeile 2
-weiterer Text für Zeile 1 | weiterer Text für Zeile 2
+######Schnittstellenmöglichkeit
 
-| 123| 456 |789 |
-|:---|:---:|---:|
-| abc| def |[ghi](https://fprass99.github.io/homepage-testen/index.html "ghi") |
-|    |     |    |
-|    |     |    |
-
-
-&nbsp;
-
-
-&nbsp;
-![Evosec Bild](https://www.evosec.de/files/8212/9786/1329/hdpic.jpg )
-
-- [x] erste Zeile Ja
-- [ ] zweite Zeile Nein
-- [ ] dritte Zeile Nein
-- [x] vierte Zeile Ja
++ integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle
++ evoMIS Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung
++ optionaler Empfangsmonitor möglich
++ Report-Schnittstelle für verschiedene Ausdrucke wie z. B. Tagestermine
++ optionale EKS-Schnittstelle für Übernahme der Kundendaten
++ evoWTP kann auch ohne Startime, EKS / AlphaPlus oder evoMIS betrieben werden
