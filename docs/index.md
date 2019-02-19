@@ -6,20 +6,20 @@ Titelbild: evosec.jpg
 logo: true
 ---
 <div class="content1">
-#### Herzlich Willkommen
+<h5>Herzlich Willkommen</h5>
 auf den Seiten der Evosec GmbH & Co. KG. Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br> 
 <br>
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br> 
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
 <div class="content2">
-* Evosec GmbH & Co. KG
-* Westend 38-40
-* 46399 Bocholt
+* Evosec GmbH & Co. KG<br>
+* Westend 38-40<br>
+* 46399 Bocholt<br>
 <br>
-* Kontakt:
-* Tel: (02871) 27 77 134
-* Fax: (02871) 27 77 168
-* E-Mail: webkontakt@evosec.de
+* Kontakt:<br>
+* Tel: (02871) 27 77 134<br>
+* Fax: (02871) 27 77 168<br>
+* E-Mail: webkontakt@evosec.de<br>
 <div>
 
