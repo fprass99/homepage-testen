@@ -13,7 +13,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 
 img<br>
 <br>
-######Vorteile der Werkstattplanung
+<h6>Vorteile der Werkstattplanung</h6>
 
 + aktuelle Auslastungsübersicht (Tag/Woche/Monat)
 + Terminplanung pro Center/Annehmer
@@ -22,7 +22,7 @@ img<br>
 + Erinnerungsfunktion für Hol-/Bringservice und Folgetermine
 + farbige Darstellung der verschiedenen Auftragstypen
 
-######Schnittstellenmöglichkeit
+<h6>Schnittstellenmöglichkeit</h6>
 
 + integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle
 + evoMIS Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung
