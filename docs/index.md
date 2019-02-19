@@ -14,16 +14,16 @@ Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV
 </div>
 <div class="content2">
 
-* Evosec GmbH & Co. KG<br>
-* Westend 38-40<br>
-* 46399 Bocholt<br>
+Evosec GmbH & Co. KG<br>
+Westend 38-40<br>
+46399 Bocholt<br>
 
 <br>
 
-* Kontakt:<br>
-* Tel: (02871) 27 77 134<br>
-* Fax: (02871) 27 77 168<br>
-* E-Mail: webkontakt@evosec.de<br>
+Kontakt:<br>
+Tel: (02871) 27 77 134<br>
+Fax: (02871) 27 77 168<br>
+E-Mail: webkontakt@evosec.de<br>
 
 <div>
 
