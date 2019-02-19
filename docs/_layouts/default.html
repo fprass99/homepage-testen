@@ -16,14 +16,14 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <style>
     .Titelbild{
-      width: 85%;
+      display: block;
+      margin: 0px auto;
     }
     nav{
       display: flex;
     }
-    nav .Home{
-      display: flex;
-      flex: 1 1 0px;
+    .navbar{
+      flex: 0 1 100px;
     }
   </style>
   </head>
@@ -38,7 +38,18 @@
         
         <div class="row" style="background-color: #324152">
           <nav class="col-md-12">
-          <p style="color:white"><a class="home">Home</a><a class="produkte">Produkte</a><a class="support">Support</a><a class="unternehmen">Unternehmen</a></p>
+            <div class="navbar"> 
+              <a>Home</a>
+            </div>
+            <div class="navbar">
+              <a>Produkte</a>
+            </div>
+            <div class="navbar">
+              <a>Support</a>
+            </div>
+            <div class="navbar">
+              <a>Unternehmen</a>
+            </div>
         <nav>
 
           </div>
