@@ -45,18 +45,8 @@
       height: 2em;
       background-color: lightgray;
     }
-    .content{
-      display:flex;
-      margin: 30px auto;
-      font-size: 14px;
-    }
-    .content1{
-      flex: 3 3 0px;
-    }
-    .content2{
-      flex: 0 1 250px;
-      background-color: lightgray;
-      max-height: 190px;
+    .navigationsleiste{
+      margin-bottom: 30px;
     }
   </style>
   </head>
@@ -68,7 +58,7 @@
           <img class="Titelbild" style="padding: 0px" src="evosec.jpg" alt="Evosec">
           </div>
         </div>
-      <div class="row">
+      <div class="row navigationsleiste">
         <div class="col-md-12 navigation">        
           <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand" href="#">Evosec</a>
@@ -101,7 +91,7 @@
           </nav>  
         </div>
       </div>
-      <div class="row" style="background-color: white">
+      <div class="row content" style="background-color: white">
         
       <div class="col-md-12">{{ content }}</div>
       </div>
