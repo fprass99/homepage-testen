@@ -1,7 +1,5 @@
 ---
 title: Hallo Welt
-showNudelsuppe: true
-testText: Hallo Welt!!!
 Titelbild: evosec.jpg
 logo: true
 ---
@@ -16,13 +14,13 @@ Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV
 <div class="col-md-3">
 <div class="card bg-light mb-3">
 <div class="card-body">
-Evosec GmbH & Co. KG<br>
+<strong>Evosec GmbH & Co. KG</strong><br>
 Westend 38-40<br>
 46399 Bocholt<br>
 
 <br>
 
-Kontakt:<br>
+<strong>Kontakt:</strong><br>
 Tel: (02871) 27 77 134<br>
 Fax: (02871) 27 77 168<br>
 E-Mail: webkontakt@evosec.de<br>
