@@ -14,7 +14,7 @@ Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
 <div class="col-md-3">
-<div class="card">
+<div class="card bg-light mb-3">
 <div class="card-body">
 Evosec GmbH & Co. KG<br>
 Westend 38-40<br>
