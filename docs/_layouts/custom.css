@@ -1,0 +1,21 @@
+
+.Titelbild{
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.bild{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.fußzeile{
+  text-align: center;
+  height: 2em;
+}
+.inhalt{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.padding-rahmen{
+  padding-top: 6px;
+  padding-bottom: 0px; 
+}
