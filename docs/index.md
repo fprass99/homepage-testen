@@ -21,9 +21,9 @@ Westend 38-40<br>
 <br>
 
 <strong>Kontakt:</strong><br>
-Tel: (02871) 27 77 134<br>
-Fax: (02871) 27 77 168<br>
-E-Mail: webkontakt@evosec.de<br>
+Tel:<a href="tel:(02871) 27 77 134"> (02871) 27 77 134</a><br>
+Fax:<a href="fax:(02871) 27 77 168"> (02871) 27 77 168</a><br>
+E-Mail:<a href="mailto:webkontakt@evosec.de"> webkontakt@evosec.de</a><br>
 
 </div>
 </div>
