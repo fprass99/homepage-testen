@@ -10,7 +10,7 @@ Der Werkstatt-Terminplaner <strong>evoWTP</strong> ermöglicht jederzeit eine ak
 Individuelle Ansichten und Reportmöglichkeiten (z.B. Tages-/Monatsauslastungsanzeige) geben eine detaillierte Übersicht über noch offene Termine. Eine frei konfigurierbare AW-Datenbank erlaubt den Serviceberatern/innen und Serviceassistenten/innen eine <br> schnelle und effektive Auftragsplanung.<br>
 Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gegensatz zu Microsoft Excel, wesentlich größere Datenmengen verarbeiten kann. Zahlreiche Schnittstellen, wie zum Beispiel zum EKS-Kundendatenmanagement, Alpha Plus oder<br> <strong>evoMIS</strong>, zeichnen den Terminplaner <strong>evoWTP</strong> aus.<br>
 <br>
-<img href="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
+<img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
 <br>
 <h6>Vorteile der Werkstattplanung</h6>
 
