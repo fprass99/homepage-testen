@@ -1,5 +1,7 @@
 .bild{
   width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 .fußzeile{
   text-align: center;
