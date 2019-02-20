@@ -1,3 +1,5 @@
+<div class="row">
+<div class="col-md-10 offset-md-1">
 Fehlender Überblick bei den Werkstattterminen?<br>
 <br>
 Monteure haben Urlaub trotz hoher Werkstattauslastung?<br>
@@ -29,3 +31,5 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 + Report-Schnittstelle für verschiedene Ausdrucke wie z. B. Tagestermine
 + optionale EKS-Schnittstelle für Übernahme der Kundendaten
 + <strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden
+</div>
+</div>
