@@ -1,4 +1,7 @@
-
+body{
+    background: linear-gradient(to bottom,#324152,white ) no-repeat center center fixed;
+    background-size: cover;
+}
 .Titelbild{
   margin-top: 0px;
   margin-left: 0px;
@@ -14,8 +17,4 @@
 .inhalt{
   padding-top: 30px;
   padding-bottom: 30px;
-}
-.padding-rahmen{
-  padding-top: 6px;
-  padding-bottom: 0px; 
 }
