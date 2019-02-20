@@ -11,7 +11,7 @@ auf den Seiten der Evosec GmbH & Co. KG. Ihrem Dienstleister für Informationste
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br> 
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
-<div class="col-md-2">
+<div class="col-md-2 offset-md-4">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
