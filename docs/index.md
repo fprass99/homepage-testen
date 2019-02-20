@@ -6,7 +6,6 @@ logo: true
 <div class="row">
 <div class="col-md-9">
 <h6>Herzlich Willkommen</h6>
-<a href="#" class="btn btn-primary">Hallo</a>
 auf den Seiten der Evosec GmbH & Co. KG. Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br> 
 <br>
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br> 
