@@ -3,7 +3,6 @@ title: Hallo Welt
 Titelbild: evosec.jpg
 logo: true
 ---
-<div class="row">
 <div class="col-md-6 offset-md-1">
 <h6>Herzlich Willkommen</h6>
 auf den Seiten der Evosec GmbH & Co. KG. Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br> 
@@ -25,7 +24,6 @@ Tel:<a href="tel:(02871) 27 77 134"> (02871) 27 77 134</a><br>
 Fax:<a href="fax:(02871) 27 77 168"> (02871) 27 77 168</a><br>
 E-Mail:<a href="mailto:webkontakt@evosec.de"> webkontakt@evosec.de</a><br>
 
-</div>
 </div>
 </div>
 </div>
