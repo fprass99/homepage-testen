@@ -4,14 +4,14 @@ Titelbild: evosec.jpg
 logo: true
 ---
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-6">
 <h6>Herzlich Willkommen</h6>
 auf den Seiten der Evosec GmbH & Co. KG. Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br> 
 <br>
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br> 
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
-<div class="col-md-4">
+<div class="col-md-2">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
