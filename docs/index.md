@@ -3,12 +3,12 @@ title: Hallo Welt
 Titelbild: evosec.jpg
 logo: true
 ---
-<div class="row">
+<div class="row abstand">
 <div class="col-md-3 offset-md-1">
 <h1>Herzlich Willkommen</h1>
 </div>
 </div>
-<div class="row">
+<div class="row abstand">
 <div class="col-md-3 offset-md-1">
 auf den Seiten der Evosec GmbH & Co. KG.<br> Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br>
 </div>
@@ -16,7 +16,7 @@ auf den Seiten der Evosec GmbH & Co. KG.<br> Ihrem Dienstleister für Informatio
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br>
 </div>
 </div>
-<div class="row">
+<div class="row abstand">
 <div class="col-md-3 offset-md-1"> 
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>

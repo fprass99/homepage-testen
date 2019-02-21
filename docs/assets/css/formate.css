@@ -8,10 +8,14 @@
   height: 2em;
 }
 .inhalt{
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .container-fluid{
   padding-left: 0px;
   padding-right: 0px;
+}
+.abstand{
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
