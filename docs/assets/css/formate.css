@@ -21,9 +21,14 @@
 .kontakt{
   padding: 0px 30px;
 }
-.links{
-  float: left;
+.bildzeile{
+  position: relative;
 }
-.rechts{
-  float: right;
+.bildschrift{
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  
 }
