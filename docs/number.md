@@ -1,5 +1,5 @@
 <div class="row">
-<div class="col-md-11 offset-md-1 abstand">
+<div class="col-md-10 offset-md-1 abstand">
 <strong>Fehlender Überblick bei den Werkstattterminen?</strong><br>
 <br>
 <strong>Monteure haben Urlaub trotz hoher Werkstattauslastung?</strong><br>
