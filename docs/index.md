@@ -3,8 +3,11 @@ title: Hallo Welt
 Titelbild: evosec.jpg
 logo: true
 ---
+<div class="row">
 <div class="col-md-3 offset-md-1">
 <h1>Herzlich Willkommen</h1>
+</div>
+</div>
 <div class="row">
 <div class="col-md-3 offset-md-1">
 auf den Seiten der Evosec GmbH & Co. KG. Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br>
