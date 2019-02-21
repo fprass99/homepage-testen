@@ -21,3 +21,9 @@
 .kontakt{
   padding: 0px 30px;
 }
+.links{
+  float: left;
+}
+.rechts{
+  float: right;
+}

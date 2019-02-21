@@ -10,7 +10,7 @@ logo: true
 </div>
 
 <div class="row">
-<div class="col-md-7">
+<div class="col-md-7 links">
 <div class="row">
 <div class="col-md-3 offset-md-1 abstand">
 auf den Seiten der Evosec GmbH & Co. KG.<br> Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br>
@@ -28,9 +28,9 @@ Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV
 </div>
 
 <div class="row">
-<div class="col-md-5">
+<div class="col-md-5 rechts">
 <div class="row">
-<div class="col-md-2 abstand">
+<div class="col-md-4 abstand">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
