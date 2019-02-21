@@ -21,7 +21,10 @@ Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
 </div>
-<!--<div class="col-md-2">
+
+<br>
+
+<div class="col-md-2">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
@@ -30,7 +33,7 @@ Westend 38-40<br>
 
 <br>
 
-<!--<strong>Kontakt:</strong><br>
+<strong>Kontakt:</strong><br>
 Tel:<a href="tel:(02871) 27 77 134"> (02871) 27 77 134</a><br>
 Fax:<a href="fax:(02871) 27 77 168"> (02871) 27 77 168</a><br>
 E-Mail:<a href="mailto:webkontakt@evosec.de"> webkontakt@evosec.de</a><br>
