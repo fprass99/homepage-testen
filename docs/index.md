@@ -15,12 +15,7 @@ auf den Seiten der Evosec GmbH & Co. KG.<br> Ihrem Dienstleister für Informatio
 <div class="col-md-3 abstand"> 
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br>
 </div>
-</div>
-<div class="row">
-<div class="col-md-3 offset-md-1 abstand"> 
-Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
-</div>
-<div class="col-md-2 offset-md-3 kontakt">
+<div class="col-md-2 kontakt">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
@@ -33,5 +28,10 @@ Fax:<a href="fax:(02871) 27 77 168"> (02871) 27 77 168</a><br>
 E-Mail:<a href="mailto:webkontakt@evosec.de"> webkontakt@evosec.de</a><br>
 </div>
 </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3 offset-md-1 abstand"> 
+Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
 </div>
