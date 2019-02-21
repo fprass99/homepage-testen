@@ -10,7 +10,7 @@ logo: true
 </div>
 
 <div class="row">
-<div class="col-md-9 offset-md-1">
+<div class="col-md-8 offset-md-1">
 
 <div class="row">
 <div class="col-md-4 abstand">
@@ -21,7 +21,7 @@ Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur
 </div>
 </div>
 <div class="row">
-<div class="col-md-2 abstand"> 
+<div class="col-md-4 abstand"> 
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
 </div>
