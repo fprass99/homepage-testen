@@ -1,8 +1,9 @@
-<div class="col-md-10">
+<div class="row">
+<div class="col-md-10 offset-md-1">
 <strong>Gerne leisten wir Ihnen für unsere Produkte unter den folgenden Kontaktdaten Support</strong>
 </div>
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-3 offset-md-1">
 <img src="https://www.evosec.de/files/2812/9715/1896/Support.jpg" alt="Mitarbeiter">
 </div>
 <div class="col-md-8">
