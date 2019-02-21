@@ -12,7 +12,7 @@ logo: true
 <div class="col-md-3 offset-md-1 abstand">
 auf den Seiten der Evosec GmbH & Co. KG.<br> Ihrem Dienstleister für Informationstechnik im Bereich der Automobilbranche.<br>
 </div>
-<div class="col-md-3 abstand"> 
+<div class="col-md-3 offset-md-1 abstand"> 
 Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur umfangreichen Serverfarm und entwickeln eigene Softwarelösungen für firmenspezifische Anforderungen.<br>
 </div>
 <div class="col-md-2 kontakt">
