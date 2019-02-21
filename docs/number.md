@@ -14,17 +14,18 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <br>
 <img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
 <br>
+<br>
 <h6>Vorteile der Werkstattplanung</h6>
-
+<br>
 + aktuelle Auslastungsübersicht (Tag/Woche/Monat)
 + Terminplanung pro Center/Annehmer
 + verschiedene Reportmöglichkeiten
 + frei konfigurierbare AW-Datenbank
 + Erinnerungsfunktion für Hol-/Bringservice und Folgetermine
 + farbige Darstellung der verschiedenen Auftragstypen
-
+<br>
 <h6>Schnittstellenmöglichkeit</h6>
-
+<br>
 + integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle
 + <strong>evoMIS</strong> Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung
 + optionaler Empfangsmonitor möglich
