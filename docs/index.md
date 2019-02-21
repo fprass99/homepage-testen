@@ -29,7 +29,7 @@ Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV
 
 <div class="col-md-3">
 <div class="row">
-<div class="col-md-3 abstand">
+<div class="abstand">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
