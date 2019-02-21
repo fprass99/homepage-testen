@@ -20,7 +20,7 @@ Wir verwalten die gesamte Informationstechnik vom einzelnen Arbeitsplatz bis zur
 <div class="col-md-3 offset-md-1 abstand"> 
 Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV-Systeme, Applikationen im Servicebereich von Werkstätten sowie Webanwendungen für Kunden.<br>
 </div>
-<div class="col-md-2 offset-md-3 abstand">
+<div class="col-md-2 offset-md-3 kontakt">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
