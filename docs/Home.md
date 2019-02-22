@@ -27,9 +27,7 @@ Dazu gehört unteranderem der Entwurf von Schnittstellen für bereitgestellte DV
 </div>
 </div>
 
-<div class="col-md-3">
-<div class="row">
-<div class="abstand">
+<div class="col-md-3 abstand">
 <div class="card bg-light mb-3">
 <div class="card-body">
 <strong>Evosec GmbH & Co. KG</strong><br>
@@ -40,8 +38,6 @@ Westend 38-40<br>
 Tel:<a href="tel:(02871) 27 77 134"> (02871) 27 77 134</a><br>
 Fax:<a href="fax:(02871) 27 77 168"> (02871) 27 77 168</a><br>
 E-Mail:<a href="mailto:webkontakt@evosec.de"> webkontakt@evosec.de</a><br>
-</div>
-</div>
 </div>
 </div>
 </div>
