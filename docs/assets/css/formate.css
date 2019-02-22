@@ -29,4 +29,6 @@
   padding-left: 0px;
   padding-right: 0px;
 }
-
+.container-inhalt{
+  max-width: 1500px;
+}
