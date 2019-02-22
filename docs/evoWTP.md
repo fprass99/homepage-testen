@@ -22,7 +22,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
 <div class="card-header text-center">
-<h3>Vorteile der Werkstattplanung</h3>
+<h3>Vorteile</h3>
 </div>
 <div class="card-body">
 <ul>
@@ -40,7 +40,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
 <div class="card-header">
-    <h3>Werkstattplan</h3>
+    <h4>Werkstattplan</h4>
 </div>
 <img class="card-img-top abstand" href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/8412/9706/8569/Werkstattplan.jpg" alt="evoWTP">
 </div>
@@ -49,14 +49,15 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
 <div class="card-header text-center">
-<h3>Schnittstellenmöglichkeit</h3>
+<h4>Schnittstellen</h4>
 </div>
 <div class="card-body">
 <ul>
-    <li>integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle</li>
-    <li><strong>evoMIS</strong> Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung</li>
+    <li>integrierte Abwesenheitsplanung</li> 
+    <li>optionaler Startime-Schnittstelle</li>
+    <li><strong>evoMIS</strong> Monitor-Schnittstelle für den schnellen Überblick</li>
     <li>optionaler Empfangsmonitor möglich</li>
-    <li>Report-Schnittstelle für verschiedene Ausdrucke wie z. B. Tagestermine</li>
+    <li>Report-Schnittstelle für verschiedene Ausdrucke</li>
     <li>optionale EKS-Schnittstelle für Übernahme der Kundendaten</li>
     <li><strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden</li>
 </ul>
