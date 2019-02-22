@@ -15,8 +15,11 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
 <br>
 <br>
+<div class="card">
+<div class="card-head">
 <h6>Vorteile der Werkstattplanung</h6>
-<br>
+</div>
+<div class="card-body">
 <ul>
     <li>aktuelle Auslastungsübersicht (Tag/Woche/Monat)</li>
     <li>Terminplanung pro Center/Annehmer</li>
@@ -25,9 +28,14 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
     <li>Erinnerungsfunktion für Hol-/Bringservice und Folgetermine</li>
     <li>farbige Darstellung der verschiedenen Auftragstypen</li>
 </ul> 
+</div>
+</div>
 <br>
+<div class="card">
+<div class="card-head">
 <h6>Schnittstellenmöglichkeit</h6>
-<br>
+</div>
+<div class="card-body">
 <ul>
     <li>integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle</li>
     <li><strong>evoMIS</strong> Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung</li>
@@ -36,5 +44,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
     <li>optionale EKS-Schnittstelle für Übernahme der Kundendaten</li>
     <li><strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden</li>
 </ul>
+</div>
+</div>
 </div>
 </div>
