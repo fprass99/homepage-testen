@@ -1,11 +1,11 @@
 <div class="row">
-<div class="col-md-10 offset-md-1 abstand">
+<div class="col-md-12 abstand">
 <strong>Gerne leisten wir Ihnen für unsere Produkte unter den folgenden Kontaktdaten Support</strong>
 </div>
 </div>
 
 <div class="row">
-<div class="col-md-2 offset-md-1 abstand">
+<div class="col-md-3 abstand">
 <img src="https://www.evosec.de/files/2812/9715/1896/Support.jpg" alt="Mitarbeiter">
 </div>
 <div class="col-md-9 abstand">
