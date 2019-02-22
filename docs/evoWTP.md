@@ -19,7 +19,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 </div>
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-3 offset-md-1">
 <div class="card">
 <div class="card-header">
 <h6>Vorteile der Werkstattplanung</h6>
