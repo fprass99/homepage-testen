@@ -37,7 +37,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 </div>
 
-<div class="col-md-4 abstand">
+<div class="col-md-4. abstand">
 <div class="card">
 <div class="card-header">
 <h6>Werkstattplan</h6>
