@@ -37,18 +37,14 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 </div>
 </div>
-</div>
 
 <div class="col-md-4 abstand">
 <div class="card border-secondary mb-3">
-<div class="card-deck">
 <img class="card-img-top abstand" href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/8412/9706/8569/Werkstattplan.jpg" alt="evoWTP">
-</div>
 </div>
 </div>
 
 <div class="col-md-3 abstand">
-<div class="card-deck">
 <div class="card border-secondary mb-3">
 <div class="card-header text-center">
 <h6>Schnittstellenmöglichkeit</h6>
