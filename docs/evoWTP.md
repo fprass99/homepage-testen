@@ -39,11 +39,10 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 
 <div class="col-md-4 abstand">
 <div class="card">
-<div class="card-header">
 <h6>Werkstattplan</h6>
-</div>
-<div class="card-body container">
-<img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
+<img class="card-img-top" href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
+<div class="card-body">
+<h6>Werstattplan</h6>
 </div>
 </div>
 </div>
