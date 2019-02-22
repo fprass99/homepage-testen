@@ -22,7 +22,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
 <div class="card-header text-center">
-<h3>Vorteile</h3>
+<h4>Vorteile</h4>
 </div>
 <div class="card-body">
 <ul>
