@@ -17,20 +17,24 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <br>
 <h6>Vorteile der Werkstattplanung</h6>
 <br>
-+ aktuelle Auslastungsübersicht (Tag/Woche/Monat)
-+ Terminplanung pro Center/Annehmer
-+ verschiedene Reportmöglichkeiten
-+ frei konfigurierbare AW-Datenbank
-+ Erinnerungsfunktion für Hol-/Bringservice und Folgetermine
-+ farbige Darstellung der verschiedenen Auftragstypen
+<ul>
+    <li>aktuelle Auslastungsübersicht (Tag/Woche/Monat)</li>
+    <li>Terminplanung pro Center/Annehmer</li>
+    <li>verschiedene Reportmöglichkeiten</li>
+    <li>frei konfigurierbare AW-Datenbank</li>
+    <li>Erinnerungsfunktion für Hol-/Bringservice und Folgetermine</li>
+    <li>farbige Darstellung der verschiedenen Auftragstypen</li>
+</ul> 
 <br>
 <h6>Schnittstellenmöglichkeit</h6>
 <br>
-+ integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle
-+ <strong>evoMIS</strong> Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung
-+ optionaler Empfangsmonitor möglich
-+ Report-Schnittstelle für verschiedene Ausdrucke wie z. B. Tagestermine
-+ optionale EKS-Schnittstelle für Übernahme der Kundendaten
-+ <strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden
+<ul>
+    <li>integrierte Urlaubs- und Abwesenheitsplanung mit optionaler Startime-Schnittstelle</li>
+    <li><strong>evoMIS</strong> Monitor-Schnittstelle für den schnellen Überblick der aktuellen Werkstattauslastung</li>
+    <li>optionaler Empfangsmonitor möglich</li>
+    <li>Report-Schnittstelle für verschiedene Ausdrucke wie z. B. Tagestermine</li>
+    <li>optionale EKS-Schnittstelle für Übernahme der Kundendaten</li>
+    <li><strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden</li>
+</ul>
 </div>
 </div>
