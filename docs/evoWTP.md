@@ -8,7 +8,7 @@
 <br> -->
 <div class="card border-secondary">
 <div class="card-header text-center">
-<h1>evoWTP-   bietet Ihnen die Lösung</h1>
+<h2>evoWTP-   bietet Ihnen die Lösung</h2>
 </div>
 <div class="card-body">
 Der Werkstatt-Terminplaner <strong>evoWTP</strong> ermöglicht jederzeit eine aktuelle Übersicht über die Auslastung in den einzelnen Werkstätten. Hierbei ist eine Centerübergreifende Terminplanung mit individuellen Lese- und Schreibrechten umsetzbar.<br> Die integrierte Startime-Schnittstelle ermöglicht Ihnen eine unkomplizierte Abwesenheitsplanung.<br>
@@ -22,7 +22,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
 <div class="card-header text-center">
-<h6>Vorteile der Werkstattplanung</h6>
+<h3>Vorteile der Werkstattplanung</h3>
 </div>
 <div class="card-body">
 <ul>
@@ -39,6 +39,9 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
+<div class="card-header">
+    <h3>Werkstattplan</h3>
+</div>
 <img class="card-img-top abstand" href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/8412/9706/8569/Werkstattplan.jpg" alt="evoWTP">
 </div>
 </div>
@@ -46,7 +49,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="col-md-4 abstand">
 <div class="card border-secondary card-height">
 <div class="card-header text-center">
-<h6>Schnittstellenmöglichkeit</h6>
+<h3>Schnittstellenmöglichkeit</h3>
 </div>
 <div class="card-body">
 <ul>
