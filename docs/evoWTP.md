@@ -16,6 +16,8 @@ Individuelle Ansichten und Reportmöglichkeiten (z.B. Tages-/Monatsauslastungsan
 Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gegensatz zu Microsoft Excel, wesentlich größere Datenmengen verarbeiten kann. Zahlreiche Schnittstellen, wie zum Beispiel zum EKS-Kundendatenmanagement, Alpha Plus oder<br> <strong>evoMIS</strong>, zeichnen den Terminplaner <strong>evoWTP</strong> aus.<br>
 </div>
 </div>
+</div>
+</div>
 <div class="row">
 <div class="col-md-3">
 <div class="card">
@@ -37,7 +39,10 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 
 <div class="col-md-4">
 <div class="card">
-<div class="card-body">
+<div class="card-header">
+<h6>Werkstattplan</h6>
+</div>
+<div class="card-body container">
 <img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
 </div>
 </div>
@@ -57,8 +62,6 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
     <li>optionale EKS-Schnittstelle für Übernahme der Kundendaten</li>
     <li><strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden</li>
 </ul>
-</div>
-</div>
 </div>
 </div>
 </div>
