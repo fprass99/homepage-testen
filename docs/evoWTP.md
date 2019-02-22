@@ -16,7 +16,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <br>
 <br>
 <div class="card">
-<div class="card-head">
+<div class="card-header">
 <h6>Vorteile der Werkstattplanung</h6>
 </div>
 <div class="card-body">
@@ -32,7 +32,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 <br>
 <div class="card">
-<div class="card-head">
+<div class="card-header">
 <h6>Schnittstellenmöglichkeit</h6>
 </div>
 <div class="card-body">
