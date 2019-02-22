@@ -32,3 +32,6 @@
 .container-inhalt{
   max-width: 1500px;
 }
+.card-height{
+  height: 100%;
+}
