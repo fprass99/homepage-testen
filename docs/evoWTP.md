@@ -6,15 +6,18 @@
 <br>
 <strong>Terminplanung basiert auf Papier?</strong><br>
 <br>
+<div class="card">
+<div class="card-header">
 <h1>evoWTP-   bietet Ihnen die Lösung.</h1>
-<br>
-Der Werkstatt-Terminplaner <strong>evoWTP</strong> ermöglicht jederzeit eine aktuelle Übersicht über die Auslastung in den einzelnen Werkstätten. Hierbei ist eine Centerübergreifende Terminplanung mit individuellen Lese- und Schreibrechten umsetzbar. Die <br> integrierte Startime-Schnittstelle ermöglicht Ihnen eine unkomplizierte Abwesenheitsplanung.<br>
-Individuelle Ansichten und Reportmöglichkeiten (z.B. Tages-/Monatsauslastungsanzeige) geben eine detaillierte Übersicht über noch offene Termine. Eine frei konfigurierbare AW-Datenbank erlaubt den Serviceberatern/innen und Serviceassistenten/innen eine <br> schnelle und effektive Auftragsplanung.<br>
+</div>
+<div class="card-body">
+Der Werkstatt-Terminplaner <strong>evoWTP</strong> ermöglicht jederzeit eine aktuelle Übersicht über die Auslastung in den einzelnen Werkstätten. Hierbei ist eine Centerübergreifende Terminplanung mit individuellen Lese- und Schreibrechten umsetzbar.<br> Die integrierte Startime-Schnittstelle ermöglicht Ihnen eine unkomplizierte Abwesenheitsplanung.<br>
+Individuelle Ansichten und Reportmöglichkeiten (z.B. Tages-/Monatsauslastungsanzeige) geben eine detaillierte Übersicht über noch offene Termine. Eine frei konfigurierbare AW-Datenbank erlaubt den Serviceberatern/innen und Serviceassistenten/innen eine schnelle und effektive Auftragsplanung.<br>
 Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gegensatz zu Microsoft Excel, wesentlich größere Datenmengen verarbeiten kann. Zahlreiche Schnittstellen, wie zum Beispiel zum EKS-Kundendatenmanagement, Alpha Plus oder<br> <strong>evoMIS</strong>, zeichnen den Terminplaner <strong>evoWTP</strong> aus.<br>
-<br>
-<img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
-<br>
-<br>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3">
 <div class="card">
 <div class="card-header">
 <h6>Vorteile der Werkstattplanung</h6>
@@ -30,7 +33,17 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </ul> 
 </div>
 </div>
-<br>
+</div>
+
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<img href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP">
+</div>
+</div>
+</div>
+
+<div class="col-md-3">
 <div class="card">
 <div class="card-header">
 <h6>Schnittstellenmöglichkeit</h6>
@@ -44,6 +57,8 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
     <li>optionale EKS-Schnittstelle für Übernahme der Kundendaten</li>
     <li><strong>evoWTP</strong> kann auch ohne Startime, EKS / AlphaPlus oder <strong>evoMIS</strong> betrieben werden</li>
 </ul>
+</div>
+</div>
 </div>
 </div>
 </div>
