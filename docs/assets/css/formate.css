@@ -29,7 +29,8 @@
 .titelbild{
   width: 100%;
 }
-.row{
-  margin: 0px;
+.padding{
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
