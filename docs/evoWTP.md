@@ -1,5 +1,5 @@
 <div class="row">
-<div class="col-md-10 offset-md-1">
+<div class="col-md-10 offset-md-1 abstand">
 <strong>Fehlender Überblick bei den Werkstattterminen?</strong><br>
 <br>
 <strong>Monteure haben Urlaub trotz hoher Werkstattauslastung?</strong><br>
@@ -19,7 +19,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 </div>
 <div class="row">
-<div class="col-md-3 offset-md-1">
+<div class="col-md-3 offset-md-1 abstand">
 <div class="card">
 <div class="card-header">
 <h6>Vorteile der Werkstattplanung</h6>
@@ -48,7 +48,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-3 abstand">
 <div class="card">
 <div class="card-header">
 <h6>Schnittstellenmöglichkeit</h6>
