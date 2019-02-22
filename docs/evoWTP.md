@@ -6,7 +6,7 @@
 <br>
 <strong>Terminplanung basiert auf Papier?</strong><br>
 <br>
-<div class="card">
+<div class="card border-secondary mb-3">
 <div class="card-header text-center">
 <h1>evoWTP-   bietet Ihnen die Lösung</h1>
 </div>
@@ -20,7 +20,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 <div class="row">
 <div class="col-md-3 offset-md-1 abstand">
-<div class="card">
+<div class="card border-secondary mb-3">
 <div class="card-header text-center">
 <h6>Vorteile der Werkstattplanung</h6>
 </div>
@@ -38,7 +38,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 
 <div class="col-md-4 abstand">
-<div class="card">
+<div class="card border-secondary mb-3">
 <img class="card-img-top abstand" href="https://fprass99.github.io/homepage-testen/bild.html" src="https://www.evosec.de/files/5613/0010/8857/Werkstattplan_kl.jpg" alt="evoWTP" width="300" height="220">
 <div class="card-body text-center">
 <h6>Werstattplan</h6>
@@ -47,7 +47,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 </div>
 
 <div class="col-md-3 abstand">
-<div class="card">
+<div class="card border-secondary mb-3">
 <div class="card-header text-center">
 <h6>Schnittstellenmöglichkeit</h6>
 </div>
