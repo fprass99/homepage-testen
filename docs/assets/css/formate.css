@@ -15,11 +15,6 @@
 }
 .bildzeile{
   position: relative;
-  background-image: url(/docs/assets/img/Titelbild.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50%;
-  height: 500px;
 }
 .bildschrift{
   position: absolute;
@@ -39,5 +34,8 @@
   height: 100%;
 }
 .titelbild{
-  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  height: 500px;
 }
