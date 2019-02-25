@@ -51,7 +51,10 @@
               </div>
 
             <div class="bildzeile bg-white">
-              <img src="assets/img/Titelbild.jpg" class="img-responsive" alt="Laptop">
+                <picture>
+                    <source srcset="assets/img/Titelbild.jpg 1x, assets/img/Titelbild.jpg 2x">
+                    <img src="assets/img/Titelbild.jpg" class="img-fluid img-thumbnail" alt="...">
+                  </picture>
               <div class="bildschrift">
                 Hier kommt der Text zu dem Bild rein
               </div>
@@ -92,3 +95,4 @@
     </div>  
   </body>
 </html>
+<img src="assets/img/Titelbild.jpg" class="img-fluid" alt="Laptop">
