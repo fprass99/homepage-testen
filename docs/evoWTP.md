@@ -42,7 +42,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
 <div class="card-header text-center">
     <h4>Werkstattplan</h4>
 </div>
-<a href="assets/img/Werkstattplan.jpg">
+<a class="bild-link">
     <img class="card-img-top abstand" href="https://fprass99.github.io/homepage-testen/bild.html" src="assets/img/Werkstattplan.jpg" alt="evoWTP">
 </a>
 </div>
