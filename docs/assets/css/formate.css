@@ -26,6 +26,8 @@
   top: 50%;
   width: 100%;
   text-align: center;
+}
+.bildschrift h1 {
   color: white;
 }
 .container-fluid{
