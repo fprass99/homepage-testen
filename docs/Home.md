@@ -1,8 +1,4 @@
----
-title: Hallo Welt
-Titelbild: evosec.jpg
-logo: true
----
+
 <div class="row">
 <div class="col-md-6 abstand">
 <h1>Herzlich Willkommen</h1>
