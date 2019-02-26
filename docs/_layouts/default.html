@@ -34,9 +34,17 @@
                       Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="https://fprass99.github.io/homepage-testen/evoWTP.html">evoWTP</a>
-                        <a class="dropdown-item" href="#">Produkt 2</a>
-                        <a class="dropdown-item" href="#">Produkt 3</a>
+                        <a class="drobdown-menu" href="">Produkte</a>
+                        {% for product in site.producte %}
+                          {% if product.url contain base.url %}
+                            {% assign product_url_parts = product.url | split: "/" %}
+                            {% assign product_url_parts_size = product_url_parts | size %}
+                            {% assign filename = product_url_parts | last %}
+                            {% if url_parts_size == product_url_parts_size and filename%}
+                            <a class="dropdown-item" href="{{product.url}}">{{product.title}}</a>
+                            {% endif %}
+                          {% endif %}
+                        {% endfor %}
                       </div>
                       </li>
                       <li class="nav-item active">
