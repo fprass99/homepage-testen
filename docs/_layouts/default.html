@@ -45,7 +45,7 @@
                             {% assign product_url_parts_size = product_url_parts | size %}
                             {% assign filename = product_url_parts | last %}
                             {% if url_parts_size == product_url_parts_size and filename%}
-                            <a class="dropdown-item" href="{{product.url}}">{{product.title}}</a>
+                            <a class="dropdown-item" href="{{product.url}}">{{filename}}</a>
                             {% endif %}
                           {% endif %}
                         {% endfor %}
