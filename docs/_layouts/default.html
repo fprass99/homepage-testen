@@ -39,13 +39,13 @@
                         {% assign rm = url_parts | last %}
                         {% assign base_url = page.url | replace: rm %}
 
-                        {% for product in site.pages %}
+                        {% for product in site.produkte.pages %}
                           {% if product.url contains base_url %}
                             {% assign product_url_parts = product.url | split: '/' %}
                             {% assign product_url_parts_size = product_url_parts | size %}
                             {% assign filename = product_url_parts | last %}
                             {% if url_parts_size == product_url_parts_size and filename%}
-                            <a class="dropdown-item" href="https://fprass99.github.io/homepage-testen/{{product.name}}">{{product.name}}</a>
+                            <a class="dropdown-item" href="{{product.url}}">{{product.name}}</a>
                             {% endif %}
                           {% endif %}
                         {% endfor %}
