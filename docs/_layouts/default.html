@@ -34,6 +34,7 @@
                       Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        {% assign page.url = "https://fprass99.github.io/homepage-testen"%}
                         {% assign url_parts = page.url | split: '/' %}
                         {% assign url_parts_size = url_parts | size %}
                         {% assign rm = url_parts | last %}
