@@ -34,13 +34,12 @@
                       Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="drobdown-menu" href="">Produkte</a>
                         {% assign url_parts = page.url | split: '/' %}
                         {% assign url_parts_size = url_parts | size %}
                         {% assign rm = url_parts | last %}
                         {% assign base_url = page.url | replace: rm %}
 
-                        {% for product in site.pages %}
+                        {% for product in site.assets.producte.pages %}
                           {% if product.url contains base_url %}
                             {% assign product_url_parts = product.url | split: '/' %}
                             {% assign product_url_parts_size = product_url_parts | size %}
