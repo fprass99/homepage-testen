@@ -1,6 +1,4 @@
 collections:
-
   product:
-
-      output: true
-      
+    output: true
+    permalink: /:name      
