@@ -38,7 +38,7 @@
                           {% assign url_parts_size = url_parts | size %}
                           {% assign rm = url_parts | last %}
                           {% assign base_url = page.url | replace: rm %}
-                          console.log(url_parts)
+                          
 
                         {% for product in site.pages %}
                           {% if product.url contains base_url %}
