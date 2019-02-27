@@ -34,11 +34,10 @@
                       Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"></div>
-
                         {% for product in site.product %}
                             <a class="dropdown-item" href="{{site.baseurl}}">{{product.title}}</a>
-                        
                       </div>
+                        {% endfor %}
                       </li>
                       <li class="nav-item active">
                         <a class="nav-link" href="https://fprass99.github.io/homepage-testen/Support.html">Support<span class="sr-only">(current)</span></a>
