@@ -57,9 +57,9 @@
                           </a>
                           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                              
-                            {% for product in site.static_pages %}
-                                <a class="dropdown-item" href='https://fprass99.github.io/homepage-testen{{product.url}}'>{{ product }}</a>
-                              {% endfor %}
+                            {% loop_directory directory:products iterator:p sort:descending %}
+                            <a class="dropdown-item" href='https://fprass99.github.io/homepage-testen{{p.url}}'>{{ p.title }}</a>
+                           {% endloop_directory %}
                           </div>
                           </li>
                       <li class="nav-item active">
