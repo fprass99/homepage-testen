@@ -1,1 +1,4 @@
-
+collections:
+    product:
+    output: true
+    

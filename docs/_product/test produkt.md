@@ -1,0 +1,3 @@
+collections:
+    product:
+    output: true
