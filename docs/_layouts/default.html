@@ -35,7 +35,7 @@
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         {% for product in site.product %}
-                            <a class="dropdown-item" href="https://fprass99.github.io/homepage-testen/{{filename}}">{{product.title}}</a>
+                            {% if page.url contains product.url %}class="active"{% endif %}><a href="{{ product.url }}">{{ product.title }}</a>
                         {% endfor %}
                       </div>
                       </li>
