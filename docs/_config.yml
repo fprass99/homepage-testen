@@ -1,4 +1,3 @@
 collections:
   product:
-    output: true
-    permalink: /:name      
+    output: true      
