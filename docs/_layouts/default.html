@@ -44,7 +44,7 @@
                             {% assign product_url_parts = product.url | split: '/' %}
                             {% assign product_url_parts_size = product_url_parts | size %}
                             {% assign filename = product_url_parts | last %}
-                            {% if url_parts_size == product_url_parts_size and filename != 'index.html' %} 
+                            {% if url_parts_size == product_url_parts_size and filename and product.is_product_page %} 
                             <a class="dropdown-item" href='https://fprass99.github.io/homepage-testen{{product.url}}'>{{ product.title }}</a>
                               {% endif %}
                             {% endif %}
