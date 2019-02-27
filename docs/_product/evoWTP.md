@@ -1,6 +1,6 @@
 ---
 title: evoWTP
-permalink: /:title
+permalink: /:collection/:name
 
 ---
 <div class="row">
