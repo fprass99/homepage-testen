@@ -1,6 +1,6 @@
 ---
 title: evoWTP
-permalink: /:path
+permalink: /:output_ext
 
 ---
 <div class="row">
