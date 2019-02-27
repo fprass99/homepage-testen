@@ -1,7 +1,7 @@
 ---
 title: evoWTP
-permalink: /:name
-layout: default
+permalink: /:path
+
 ---
 <div class="row">
 <div class="col-md-12 abstand">
