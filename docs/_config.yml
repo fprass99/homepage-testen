@@ -1,3 +1,10 @@
 collections:
   product:
-    output: true 
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: ""
+    values:
+      layout: page
