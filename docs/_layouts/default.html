@@ -57,8 +57,8 @@
                           </a>
                           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                              
-                            {% for product in site.products %}
-                                <a class="dropdown-item" href='https://fprass99.github.io/homepage-testen{{product.url}}'>{{ product.title }}</a>
+                            {% for product in site.static_pages %}
+                                <a class="dropdown-item" href='https://fprass99.github.io/homepage-testen{{product.url}}'>{{ product }}</a>
                               {% endfor %}
                           </div>
                           </li>
