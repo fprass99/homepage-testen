@@ -39,18 +39,17 @@
                         {% assign rm = url_parts | last %}
                         {% assign base_url = page.url | replace: rm %} 
                         
-                        {% for product in site.product %}
+                      
                         {% for product in site.pages %}
                         {% if product.url contains base_url %}
                             {% assign product_url_parts = product.url | split: '/' %}
                             {% assign product_url_parts_size = product_url_parts | size %}
                             {% assign filename = product_url_parts | last %}
                             {% if url_parts_size == product_url_parts_size and filename%} 
-                            <a class="dropdown-item" href="{{product.url}}">{{ product.title }}</a>
+                            <a class="dropdown-item" href="{{product.url}}">{{ rm }}</a>
                               {% endif %}
                             {% endif %}
                           {% endfor %}
-                        {% endfor %}
                       </div>
                       </li>
                       <li class="nav-item active">
