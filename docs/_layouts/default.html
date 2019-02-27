@@ -24,6 +24,10 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
+                {% assign url_parts = page.url | split: '/' %}
+                          {% assign url_parts_size = url_parts | size %}
+                          {% assign rm = url_parts | last %}
+                          {% assign base_url = page.url | replace: rm %} 
                 <div class="collapse navbar-collapse" id="basicExampleNav">
                   <ul class="navbar-nav mr-auto ml-auto">
                     <li class="nav-item active">
@@ -34,16 +38,14 @@
                       Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        
-                        
-                      
+                         
                         {% for product in site.pages %}
                         {% if product.url contains base_url %}
                             {% assign product_url_parts = product.url | split: '/' %}
                             {% assign product_url_parts_size = product_url_parts | size %}
                             {% assign filename = product_url_parts | last %}
-                            {% if url_parts_size == product_url_parts_size and filename%} 
-                            <a class="dropdown-item" href="{{page.url}}">{{ page.url }}</a>
+                            {% if url_parts_size == product_url_parts_size and filename != 'index.html' %} 
+                            <a class="dropdown-item" href='{{product.url}}'>{{ product.title }}</a>
                               {% endif %}
                             {% endif %}
                           {% endfor %}
