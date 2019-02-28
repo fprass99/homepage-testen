@@ -37,7 +37,7 @@
                           {% assign product_url_parts = product_url | split: '/' %}
                           {% assign filename = product_url_parts | last %}
                           {% for product in site.products %}
-                            <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ product.title }}</a>
+                            <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ filename }}</a>
                           {% endfor %}    
                       </div>
                       </li>
