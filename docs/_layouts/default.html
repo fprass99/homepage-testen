@@ -35,6 +35,9 @@
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           
                           {% for product in site.products %}
+                            {% assign node_url_parts = node.url | split: '/' %}
+                            {% assign node_url_parts_size = node_url_parts | size %}
+                            {% assign filename = node_url_parts | last %}
                           <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ product.title }}</a>
                           {% endfor %}
                       </div>
