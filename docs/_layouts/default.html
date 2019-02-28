@@ -30,13 +30,13 @@
                       <a class="nav-link" href="https://fprass99.github.io/homepage-testen/Home.html">Home<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Produkte
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          
+                          {% for product in site.products %}
                           {% assign product_url_parts = product.url | split: '/' %}
                           {% assign filename = product_url_parts | last %}
-                          {% for product in site.products %}
                             <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ filename }}</a>
                           {% endfor %}    
                       </div>
