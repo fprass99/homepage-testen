@@ -4,4 +4,10 @@ collections:
   products:
     output: true
     permalink: /products/:path/
-    
+
+defaults:
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "default"
