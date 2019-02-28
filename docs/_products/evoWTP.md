@@ -1,6 +1,7 @@
 ---
 title: evoWTP
 is_product_page: true
+layout: default
 ---
 <div class="row">
 <div class="col-md-12 abstand">
