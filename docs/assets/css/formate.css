@@ -21,6 +21,7 @@
   height: 500px;
 }
 .bildschrift{
+  background-image: url("{{ '/assets/img/Titelbild.jpg?v=' | append: site.github.build_revision | relative_url }}");
   position: absolute;
   left: 0px;
   top: 50%;
