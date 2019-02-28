@@ -33,10 +33,10 @@
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Produkte
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          {% for product in site.products %}
                           
-                            <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ product.title }}</a>
-                          {% endfor %}    
+                          {% for product in site.products %}
+                          <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ product.title }}</a>
+                          {% endfor %}
                       </div>
                       </li>
                       <li class="nav-item active">
