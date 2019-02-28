@@ -41,10 +41,10 @@
   height: 100%;
 }
 .padding-navigationsleiste{
-  padding: 0.5em 20%;
+  padding: 0.5em 1em;
 }
-@media (max-width: 991px){
+@media (min-width: 992px){
 .padding-navigationsleiste{
-padding: 0.5em 1em;
+padding: 0.5em 20%;
   }
 }
