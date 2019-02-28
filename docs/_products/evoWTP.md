@@ -47,7 +47,7 @@ Die Speicherung der Daten erfolgt in einer strukturierten Datenbank, die im Gege
     <h4>Werkstattplan</h4>
 </div>
 <a class="bild-link">
-    <img class="card-img-top abstand" src="assets/img/Werkstattplan.jpg" alt="evoWTP">
+    <img class="card-img-top abstand" src="{{ '/assets/img/Werkstattplan.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="evoWTP">
 </a>
 </div>
 </div>
