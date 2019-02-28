@@ -49,6 +49,6 @@
 padding: 0.5em 20%;
   }
 }
-.bild-link :hover{
+.bild-link:hover{
   cursor: pointer;
 }
