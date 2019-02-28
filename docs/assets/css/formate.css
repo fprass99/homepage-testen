@@ -40,6 +40,6 @@
 .card-height{
   height: 100%;
 }
-.navbar-brand{
-  margin-left: 20%;
+.padding-navigationsleiste{
+  padding: 0.5em 20%;
 }
