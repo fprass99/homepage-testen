@@ -1,3 +1,5 @@
+baseurl: /homepage-testen
+
 collections:
   products:
     output: true
