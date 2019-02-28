@@ -49,3 +49,6 @@
 padding: 0.5em 20%;
   }
 }
+card-img-top:hover{
+  cursor: pointer;
+}
