@@ -23,9 +23,10 @@
 .bildschrift{
   position: absolute;
   left: 0px;
-  top: 50%;
+  top: 30%;
   width: 100%;
   text-align: center;
+  
 }
 .bildschrift h1 {
   color: white;
