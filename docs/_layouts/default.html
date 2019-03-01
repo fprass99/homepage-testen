@@ -34,9 +34,7 @@
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           
-                          {% for product in site.products %}
-                          <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}current{% endif %}">{{ product.slug }}</a>
-                          {% endfor %}
+                          
                       </div>
                       </li>
                       <li class="nav-item active">
