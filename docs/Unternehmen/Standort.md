@@ -1,0 +1,23 @@
+<div class="card mb-3"">
+    <div class="row no-gutters">
+        <div class="col-md-4">
+            <img src="..." class="card-img" alt="...">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+            <h5 class="card-title">Bocholt (im Autohaus Herbrand)</h5>
+                <p class="card-text">
+                    <strong>Anschrift:</strong><br>
+                    Evosec GmbH & Co. KG<br>
+                    Westend 38-40<br>
+                    46399 Bocholt<br>
+                    <strong><a href="https://www.google.de/maps?f=q&source=s_q&hl=de&geocode&q=Westend+38-40,+Bocholt&aq&sll=51.151786,10.415039&sspn=13.523402,39.506836&
+                    ie=UTF8&hq&hnear=Westend+38,+Bocholt+46399+Bocholt,+Borken,+Nordrhein-Westfalen&ll=51.83941,6.603363&spn=0.006496,0.01929&z=16&iwloc=A">Anfahrt</a></strong><br>
+                    <strong>Telefon:</strong> <a href="tel:(02871) 27 77 134">(02871) 27 77 134</a><br>
+                    <strong>Telefax:</strong> <a href="fax:(02871) 27 77 168">(02871) 27 77 168</a><br>
+                    <strong>E-Mail:</strong> <a href="mailto:webkontakt@evosec.de">webkontakt@evosec.de</a><br>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

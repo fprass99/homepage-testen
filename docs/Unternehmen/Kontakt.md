@@ -22,7 +22,8 @@
         <div class="card border-secondary card-height">
             <div class="card-body">
                 <strong>Öffnungszeiten:</strong><br>
-                Montags bis Freitags von 7.30 Uhr - 17.00 Uhr<br>
+                Montags bis Freitags von<br>
+                7.30 Uhr - 17.00 Uhr<br>
             </div>
         </div>
     </div>
