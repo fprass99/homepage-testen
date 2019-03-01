@@ -4,10 +4,20 @@ collections:
   products:
     output: true
     permalink: /products/:path/
+  
+  UnternehmenFolder:
+    output: true
+    permalink: /UnternehmenFolder/:path/
 
-defaults:
+  defaults:
   - scope:
       path: ""
       type: "products"
+    values:
+      layout: "default"
+
+  - scope:
+      path: ""
+      type: "UnternehmenFolder"
     values:
       layout: "default"
