@@ -1,7 +1,7 @@
-<div class="card mb-3"">
+<div class="card">
     <div class="row no-gutters">
         <div class="col-md-4">
-            <img src="..." class="card-img" alt="...">
+            <img src="{{ "/assets/img/AutohausBocholt.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
         </div>
         <div class="col-md-8">
             <div class="card-body">
