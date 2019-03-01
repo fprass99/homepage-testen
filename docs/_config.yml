@@ -5,9 +5,6 @@ collections:
     output: true
     permalink: /products/:path/
   
-  UnternehmenFolder:
-    output: true
-    permalink: /UnternehmenFolder/:path/
 
   defaults:
   - scope:
@@ -16,8 +13,3 @@ collections:
     values:
       layout: "default"
 
-  - scope:
-      path: ""
-      type: "UnternehmenFolder"
-    values:
-      layout: "default"
