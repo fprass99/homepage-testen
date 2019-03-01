@@ -52,3 +52,7 @@ padding: 0.5em 20%;
 .bild-link:hover{
   cursor: pointer;
 }
+.horizontal-card{
+  margin-left: 20px;
+  margin-right: 20px;
+}

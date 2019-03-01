@@ -1,6 +1,6 @@
 
 <div class="row">
-    <div class="card abstand mr-20">
+    <div class="card abstand horizontal-card">
         <div class="row no-gutters">
             <div class="col-md-4">
                 <img src="{{ "/assets/img/AutohausBocholt.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
@@ -24,7 +24,7 @@
             </div>
         </div>            
     </div>
-    <div class="card abstand ml-20">
+    <div class="card abstand horizontal-card">
         <div class="row no-gutters">
             <div class="col-md-4">
                 <img src="{{ "/assets/img/AutohausKevelaer.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Kevelear Herbrand Autohaus">
