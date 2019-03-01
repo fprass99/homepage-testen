@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-md-4">
-        <div class="card border-secondary">
+        <div class="card border-secondary card-height">
             <div class="card-body">
                 <strong>Evosec GmbH & Co. KG</strong><br>   
                 Westend 38-40<br>   
@@ -9,7 +9,7 @@
         </div>
     </div>
     <div class="col-md-4">
-        <div class="card border-secondary">
+        <div class="card border-secondary card-height">
             <div class="card-body">
                 <strong>Kontakt:</strong><br>   
                 <a href="tel:(02871) 27 77 134">Tel: (02871) 27 77 134</a><br>   
@@ -19,7 +19,7 @@
         </div>  
     </div>
     <div class="col-md-4">
-        <div class="card border-secondary">
+        <div class="card border-secondary card-height">
             <div class="card-body">
                 <strong>Öffnungszeiten:</strong><br>
                 Montags bis Freitags von 7.30 Uhr - 17.00 Uhr<br>
