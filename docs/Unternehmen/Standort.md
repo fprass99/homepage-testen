@@ -1,9 +1,11 @@
 
 
-<div class="card abstand border-secondary">
+<div class="card border-secondary">
     <div class="row no-gutters">
         <div class="col-md-2">
-            <img src="{{ "/assets/img/AutohausBocholt.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
+            <div class="card-body">
+                <img src="{{ "/assets/img/AutohausBocholt.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
+            </div>
         </div>
         <div class="col-md-4">
             <div class="card-body">
@@ -23,7 +25,9 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <img src="{{ "/assets/img/AutohausKevelaer.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Kevelear Herbrand Autohaus">
+            <div class="card-body">
+                <img src="{{ "/assets/img/AutohausKevelaer.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Kevelear Herbrand Autohaus">
+            </div>
         </div>
         <div class="col-md-4">
             <div class="card-body">
