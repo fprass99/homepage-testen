@@ -1,5 +1,5 @@
-<div class="row">
-    <div class="card border-secondary">
+<div class="card border-secondary">
+    <div class="row">
         <div class="col-md-4">
             <div class="card-body">
                 <strong>Evosec GmbH & Co. KG</strong><br>   
