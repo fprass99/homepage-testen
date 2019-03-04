@@ -2,7 +2,7 @@
     <div class="card-header text-center">
         <h2>Referenzen</h2>
     </div>
-    <div class="row no-gutters">
+    <div class="row abstand">
         <div class="col-md-2">
             <div class="card-body img-height">
                 <img src="{{ "/assets/img/Herbrand.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
@@ -30,7 +30,7 @@
             </div>
         </div>
     </div>
-    <div class="row no-gutters">
+    <div class="row abstand">
         <div class="col-md-2">
             <div class="card-body img-height">
                 <img src="{{ "/assets/img/WeselHerbrand.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Herbrand Wesel">
@@ -57,7 +57,7 @@
             </div>
         </div>
     </div>
-    <div class="row no-gutters">
+    <div class="row abstand">
         <div class="col-md-2">
             <div class="card-body img-height">
                 <img src="{{ "/assets/img/Ah-Jansen.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Autohaus Jansen">
@@ -84,7 +84,7 @@
             </div>
         </div>
     </div>
-    <div class="row no-gutters">
+    <div class="row abstand">
         <div class="col-md-2">
             <div class="card-body img-height">
                 <img src="{{ "/assets/img/tiptop.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Tip Top Autopflege GmbH">
@@ -112,7 +112,7 @@
             </div>
         </div>
     </div>
-    <div class="row no-gutters">
+    <div class="row abstand">
         <div class="col-md-2">
             <div class="card-body img-height ">
                 <img src="{{ "/assets/img/KBM-Motorfahrzeuge.JPG?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="KBM Motorfahrzeuge">
@@ -140,7 +140,7 @@
             </div>
         </div>
     </div>
-    <div class="row no-gutters">
+    <div class="row abstand">
         <div class="col-md-2">
             <div class="card-body img-height">
                 <img src="{{ "/assets/img/Ah-Stoltmann.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Autohaus Stoltmann">
