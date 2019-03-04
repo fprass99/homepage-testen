@@ -53,8 +53,8 @@
             <div class="card-body">
             <h5 class="card-title">Autohaus Rolf Jansen</h5>
                 <p class="card-text">
-                    <strong>www.toyota-jansen.de</strong>
-                    <strong>www.lexusforum-moenchengladbach.de</strong>
+                    <strong>www.toyota-jansen.de</strong><br>
+                    <strong>www.lexusforum-moenchengladbach.de</strong><br>
                 </p>
             </div>
         </div>
