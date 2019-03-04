@@ -14,6 +14,6 @@ Montags bis Freitags von 08:00 Uhr – 12:00 Uhr und 13:00 Uhr – 17.00 Uhr<br>
 <strong>Telefon:</strong><a href="tel:+49 2823 / 92970-269"> +49 2823 / 92970-269</a><br> 
 <strong>E-Mail:</strong><a href="mailto:support@evosec.de"> support@evosec.de</a><br>
 <br>
-Unser <a href="#">Supportmodul</a> können Sie hier kostenlos herunterladen.<br>
+Unser <a href="{{ "/assets/downloads/TeamViewerQS-idce29xrsk.exe?v=" | append: site.github.build_revision | relative_url }}">Supportmodul</a> können Sie hier kostenlos herunterladen.<br>
 </div>
 </div>
