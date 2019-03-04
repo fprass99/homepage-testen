@@ -63,7 +63,7 @@ padding: 0.5em 20%;
 .img-height{
   max-height: 131px;
 }
-@media (min-width: 676px){
+@media (max-width: 676px){
   .img-height{
     width: 250px;
     padding: auto auto;
