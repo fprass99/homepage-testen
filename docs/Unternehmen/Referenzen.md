@@ -18,7 +18,7 @@
         </div>           
         <div class="col-md-2">
             <div class="card-body">
-                <img src="{{ "/assets/img/smart-team.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Herbrand art mobil GmbH">
+                <img src="{{ "/assets/img/smart-team.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Herbrand art mobil GmbH" height="131.44px">
             </div>
         </div>
         <div class="col-md-4">
