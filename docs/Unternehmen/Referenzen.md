@@ -4,8 +4,8 @@
     </div>
     <div class="row abstand">
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/Herbrand.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
+            <div class="card-body">
+                <img src="{{ "/assets/img/Herbrand.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Bocholt Herbrand Autohaus">
             </div>
         </div>
         <div class="col-md-4">
@@ -17,8 +17,8 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/smart-team.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Herbrand art mobil GmbH">
+            <div class="card-body">
+                <img src="{{ "/assets/img/smart-team.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Herbrand art mobil GmbH">
             </div>
         </div>
         <div class="col-md-4">
@@ -32,8 +32,8 @@
     </div>
     <div class="row abstand">
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/WeselHerbrand.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Herbrand Wesel">
+            <div class="card-body">
+                <img src="{{ "/assets/img/WeselHerbrand.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Herbrand Wesel">
             </div>
         </div>
         <div class="col-md-4">
@@ -44,8 +44,8 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/AH-R-Jansen.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Autohaus Rolf Jansen">
+            <div class="card-body">
+                <img src="{{ "/assets/img/AH-R-Jansen.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Autohaus Rolf Jansen">
             </div>
         </div>
         <div class="col-md-4">
@@ -59,8 +59,8 @@
     </div>
     <div class="row abstand">
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/Ah-Jansen.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Autohaus Jansen">
+            <div class="card-body">
+                <img src="{{ "/assets/img/Ah-Jansen.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Autohaus Jansen">
             </div>
         </div>
         <div class="col-md-4">
@@ -72,8 +72,8 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/Herbrand-verdie.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Herbrand Verwaltung & Dienstleistung GmbH">
+            <div class="card-body">
+                <img src="{{ "/assets/img/Herbrand-verdie.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Herbrand Verwaltung & Dienstleistung GmbH">
             </div>
         </div>
         <div class="col-md-4">
@@ -86,8 +86,8 @@
     </div>
     <div class="row abstand">
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/tiptop.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Tip Top Autopflege GmbH">
+            <div class="card-body">
+                <img src="{{ "/assets/img/tiptop.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Tip Top Autopflege GmbH">
             </div>
         </div>
         <div class="col-md-4">
@@ -99,8 +99,8 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/FahrzeugbauKv.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Fahrzeugbau Kevelaer GmbH">
+            <div class="card-body">
+                <img src="{{ "/assets/img/FahrzeugbauKv.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Fahrzeugbau Kevelaer GmbH">
             </div>
         </div>
         <div class="col-md-4">
@@ -114,8 +114,8 @@
     </div>
     <div class="row abstand">
         <div class="col-md-2">
-            <div class="card-body img-height ">
-                <img src="{{ "/assets/img/KBM-Motorfahrzeuge.JPG?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="KBM Motorfahrzeuge">
+            <div class="card-body">
+                <img src="{{ "/assets/img/KBM-Motorfahrzeuge.JPG?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="KBM Motorfahrzeuge">
             </div>
         </div>
         <div class="col-md-4">
@@ -127,8 +127,8 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/Auto-Schubert.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Auto Schubert">
+            <div class="card-body">
+                <img src="{{ "/assets/img/Auto-Schubert.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Auto Schubert">
             </div>
         </div>
         <div class="col-md-4">
@@ -142,8 +142,8 @@
     </div>
     <div class="row abstand">
         <div class="col-md-2">
-            <div class="card-body img-height">
-                <img src="{{ "/assets/img/Ah-Stoltmann.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Autohaus Stoltmann">
+            <div class="card-body">
+                <img src="{{ "/assets/img/Ah-Stoltmann.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-height" alt="Autohaus Stoltmann">
             </div>
         </div>
         <div class="col-md-4">
