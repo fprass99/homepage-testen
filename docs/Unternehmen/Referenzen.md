@@ -12,7 +12,7 @@
             <div class="card-body">
             <h5 class="card-title">Herbrand GmbH</h5>
                 <p class="card-text">
-                    <strong><a href="www.herbrand.de">www.herbrand.de</a></strong>
+                    <a href="www.herbrand.de">www.herbrand.de</a>
                 </p>
             </div>
         </div>           
