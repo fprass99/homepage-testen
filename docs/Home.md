@@ -36,8 +36,8 @@ Fax:<a href="fax:(02871) 27 77 168"> (02871) 27 77 168</a><br>
 E-Mail:<a href="mailto:webkontakt@evosec.de"> webkontakt@evosec.de</a><br>
 <br>
 <strong>Öffnungszeiten:</strong><br>
-Montags bis Freitags von<br>
-7.30 Uhr - 17.00 Uhr<br>
+Montags bis Freitags<br>
+von 7.30 Uhr - 17.00 Uhr<br>
 </div>
 </div>
 </div>
