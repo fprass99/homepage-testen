@@ -9,7 +9,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Herbrand GmbH</h5>
                 <p class="card-text">
                     <strong><a href="https://www.herbrand.de/">www.herbrand.de</a></strong>
@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Herbrand art mobil GmbH</h5>
                 <p class="card-text">
                     <strong><a href="http://www.smart-herbrand.de/de/dealers/smartcenter-herbrand/de/index.html">www.smart-herbrand.de</a></strong>
@@ -37,7 +37,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Herbrand Wesel</h5>
                 <p class="card-text">
                 </p>
@@ -49,7 +49,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Autohaus Rolf Jansen</h5>
                 <p class="card-text">
                     <strong><a href="http://www.toyota-mg.herbrand-jansen.de/">www.toyota-jansen.com</a></strong>
@@ -64,7 +64,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Autohaus Jansen</h5>
                 <p class="card-text">
                     <strong><a href="http://www.toyota-mg.herbrand-jansen.de/">www.toyota-jansen.com</a></strong>
@@ -77,7 +77,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Herbrand Verwaltung & Dienstleistung GmbH</h5>
                 <p class="card-text">
                 </p>
@@ -91,7 +91,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Tip Top Autopflege GmbH</h5>
                 <p class="card-text">
                     <strong><a href="hhttp://www.autopflege-tiptop.com/">www.autopflege-tiptop.com</a></strong>
@@ -104,7 +104,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Fahrzeugbau Kevelaer GmbH</h5>
                 <p class="card-text">
                     <strong><a href="http://www.fahrzeugbau-kevelaer.de/">www.fahrzeugbau-kevelaer</a></strong><br>
@@ -119,7 +119,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">KBM Motorfahrzeuge</h5>
                 <p class="card-text">
                     <strong><a href="http://www.kbm.de/">www.kbm.de</a></strong>
@@ -132,7 +132,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Auto Schubert</h5>
                 <p class="card-text">
                     <strong><a href="https://www.auto-schubert.de/">www.auto-schubert.de</a></strong><br>
@@ -147,7 +147,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
             <h5 class="card-title">Autohaus Stoltmann</h5>
                 <p class="card-text">
                     <strong><a href="https://autohaus-stoltmann.de/">www.autohaus-stoltmann</a></strong>
