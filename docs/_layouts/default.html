@@ -73,9 +73,9 @@
               </div>
             </div>
       <script>
-        $(".nav-item").click(function(){
-          $(".nav-item").removeClass("active");
-          $(this).addClass("active");
+        $(".navbar-nav a").click(function(){
+          $(".navbar-nav").find("li.active").removeClass("active");
+          $(this).parent("li").addClass("active");
         });
 
         $(".bild-link").click(function(){
