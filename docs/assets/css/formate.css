@@ -66,6 +66,9 @@ padding: 0.5em 20%;
 @media (max-width: 767px){
   .img-height{
     max-width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   .img-standort{
     max-width: 250px;

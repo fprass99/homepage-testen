@@ -6,8 +6,8 @@
     </div>
     <div class="row no-gutters">
         <div class="col-md-2">
-            <div class="card-body img-standort">
-                <img src="{{ "/assets/img/AutohausBocholt.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Bocholt Herbrand Autohaus">
+            <div class="card-body">
+                <img src="{{ "/assets/img/AutohausBocholt.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-standort" alt="Bocholt Herbrand Autohaus">
             </div>
         </div>
         <div class="col-md-4">
@@ -28,8 +28,8 @@
             </div>
         </div>           
         <div class="col-md-2">
-            <div class="card-body img-standort">
-                <img src="{{ "/assets/img/AutohausKevelaer.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img" alt="Kevelear Herbrand Autohaus">
+            <div class="card-body">
+                <img src="{{ "/assets/img/AutohausKevelaer.jpg?v=" | append: site.github.build_revision | relative_url }}" class="card-img img-standort" alt="Kevelear Herbrand Autohaus">
             </div>
         </div>
         <div class="col-md-4">
