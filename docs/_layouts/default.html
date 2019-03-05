@@ -40,7 +40,7 @@
                       </div>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="https://fprass99.github.io/homepage-testen/Support.html">Support<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="https://fprass99.github.io/homepage-testen/Support.html">Support</a>
                       </li>
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Unternehmen
@@ -73,12 +73,12 @@
               </div>
             </div>
       <script>
-        $(document).ready(function(){
-        $(".nav-item").click(function(){
+        $(".nav-item").click(function(e){
+          e.preventDefault();
           $(".nav-item").removeClass("active");
           $(this).addClass("active");
         });
-        });
+
         $(".bild-link").click(function(){
           window.open("https://fprass99.github.io/homepage-testen/assets/img/Werkstattplan.jpg"); 
       });
