@@ -73,10 +73,10 @@
               </div>
             </div>
       <script>
-        $(".bg-dark .navbar-nav a").on("click",function(){
-          $(".bg-dark .navbar-nav").find("li.active").removeClass("active");
-          $(this).parent("li").addClass("active");
-        });
+        $(".nav-item").click(function(){
+          $(".nav-item").removeClass("active");
+          $(this).addClass("active");
+        })
 
         $(".bild-link").click(function(){
           window.open("https://fprass99.github.io/homepage-testen/assets/img/Werkstattplan.jpg"); 
