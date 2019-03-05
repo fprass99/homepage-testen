@@ -35,7 +35,7 @@
                       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           
                         {% for product in site.products %}
-                        <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item current">{{ product.slug }}</a>
+                        <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}active{% endif %}">{{ product.slug }}</a>
                         {% endfor %}
                       </div>
                       </li>
@@ -47,7 +47,7 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Standorte.html" class="dropdown-item">Standorte</a>
-                            <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Referenzen.html" class="dropdown-item">Referenzen</a>
+                            <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Referenzen.html" class="dropdown-item">{{page.url}}</a>
                         </div>
                         </li>
                       </ul>
