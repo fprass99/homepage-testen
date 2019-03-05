@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
                 <h5 class="card-title">Bocholt (im Autohaus Herbrand)</h5>
                 <p class="card-text">
                     <strong>Anschrift:</strong><br>
@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body">
+            <div class="card-body text-center">
                 <h5 class="card-title">Kevelaer (im Autohaus Herbrand)</h5>
                 <p class="card-text">
                     <strong>Anschrift:</strong><br>
