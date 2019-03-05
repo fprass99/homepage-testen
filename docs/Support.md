@@ -1,3 +1,6 @@
+---
+menu_active_type: Support
+---
 <div class="row">
 <div class="col-md-12 abstand">
 <strong>Gerne leisten wir Ihnen für unsere Produkte unter den folgenden Kontaktdaten Support</strong>

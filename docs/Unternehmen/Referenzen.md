@@ -1,3 +1,6 @@
+---
+menu_active_type: Unternehmen
+---
 <div class="card border-secondary">
     <div class="card-header text-center">
         <h2>Referenzen</h2>

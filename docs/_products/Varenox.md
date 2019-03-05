@@ -1,5 +1,6 @@
 ---
 title: Varenox
+menu_active_type: Produkte
 ---
 <div class="row">
 <div class="col-md-12 abstand">
