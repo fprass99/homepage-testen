@@ -36,7 +36,8 @@
 .container-fluid{
   padding-left: 0px;
   padding-right: 0px;
-  position: absolute;
+  position: sticky;
+  top: 0;
 }
 .container-inhalt{
   max-width: 1280px;
@@ -46,8 +47,6 @@
 }
 .padding-navigationsleiste{
   padding: 0.5em 1em;
-  position: sticky;
-  top: 0;
 }
 @media (min-width: 992px){
 .padding-navigationsleiste{
