@@ -80,7 +80,7 @@
           if(scroll >= 300) {
             header.addClass("pos-fixed");
             background.removeClass("bg-dark").addClass("bg-light");
-          } else {
+          } else if (scroll == 0) {
             header.removeClass("pos-fixed");
             background.removeClass("bg-light").addClass("bg-dark");
           }
