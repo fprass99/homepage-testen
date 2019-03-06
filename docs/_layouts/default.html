@@ -73,13 +73,13 @@
           window.open("https://fprass99.github.io/homepage-testen/assets/img/Werkstattplan.jpg"); 
       });
       $(function(){
-        var pos_absolute = $("pos-absolute")
+        var pos_absolute = $("pos-absolute");
         $(window).scroll(function(){
           var scroll = $(window).scrollTop();
           if(scroll >= 200) {
-            pos_absolute.removeClass("pos-absolute").addClass("pos-fixed") 
+            pos_absolute.removeClass("pos-absolute").addClass("pos-fixed"); 
           } else {
-            pos_absolute.removeClass("pos-fixed").addClass("pos.absolute")
+            pos_absolute.removeClass("pos-fixed").addClass("pos.absolute");
           }
         });
       });
