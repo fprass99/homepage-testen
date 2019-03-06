@@ -2,7 +2,7 @@
 menu_active_type: Unternehmen
 ---
 <div class="card border-secondary">
-    <div class="card-header schrift-zentrieren">
+    <div class="card-header text-center">
         <h2>Referenzen</h2>
     </div>
     <div class="row">
