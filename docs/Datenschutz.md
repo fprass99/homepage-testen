@@ -4,6 +4,7 @@
     </div>
     <div class="card-body">
         <h2>Einleitung</h2>
+        <br>
         Wir freuen uns über Ihren Besuch auf unserer Website sowie über Ihr Interesse an unserem Unternehmen und unseren Produkten. Der Schutz Ihrer Privatsphäre ist für uns von großer Bedeutung und wir möchten, dass Sie sich beim Besuch unserer Internetseiten wohl fühlen. Dies berücksichtigen wir auch in unseren Geschäftsprozessen bei der Verarbeitung personenbezogener Daten. "Personenbezogene Daten" sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen. Wir verarbeiten personenbezogene Daten, die beim Besuch unserer Webseiten erhoben werden gemäß den datenschutzrechtlichen Bestimmungen des Landes, in dem die für die Datenverarbeitung verantwortliche Stelle sitzt. Unsere Datenschutzpraxis richtet sich nach der EU-Datenschutzgrundverordnung (DSGVO) und dem ergänzend anwendbaren BDSG.<br>
         <br>
         Diese Website kann Verlinkungen zu Websites anderer Anbieter enthalten. Wir möchten Sie darauf hinweisen, dass wir keinen Einfluss auf die Gestaltung und den Inhalt der Seiten haben, auf die verlinkt wird. Wir können daher auch keine Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der dort bereitgestellten Informationen übernehmen. Vor diesem Hintergrund distanzieren wir uns hiermit von allen Inhalten dieser Seiten. Diese Erklärung gilt für alle auf unseren Internet-Seiten enthaltenen Links zu externen Seiten und deren Inhalte.<br>
