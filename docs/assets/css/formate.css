@@ -36,8 +36,6 @@
 .container-fluid{
   padding-left: 0px;
   padding-right: 0px;
-  position: absolute;
-  top: 0;
 }
 .container-inhalt{
   max-width: 1280px;
@@ -86,4 +84,12 @@ padding: 0.5em 20%;
 }
 .mindest-höhe{
   min-height: 440px;
+}
+.pos-absolute{
+  position: absolute;
+  top: 0;
+}
+.pos-fixed{
+  position: fixed;
+  top: 0;
 }
