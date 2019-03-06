@@ -80,3 +80,6 @@ padding: 0.5em 20%;
     text-align: center;
   }
 }
+.mindest-höhe{
+  min-height: 380px;
+}
