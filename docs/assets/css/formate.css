@@ -36,7 +36,7 @@
 .container-fluid{
   padding-left: 0px;
   padding-right: 0px;
-  position: sticky;
+  position: absolute;
   top: 0;
 }
 .container-inhalt{
