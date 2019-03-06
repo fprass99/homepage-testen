@@ -74,12 +74,15 @@
       });
       $(function(){
         var header = $(".container-fluid");
+        var background = $(".bg.dark")
         $(window).scroll(function(){
           var scroll = $(window).scrollTop();
-          if(scroll >= 400) {
-            header.addClass("pos-fixed"); 
+          if(scroll >= 300) {
+            header.addClass("pos-fixed");
+            background.removeClass("bg-dark").addClass("bg-light");
           } else {
-            pos_absolute.removeClass("pos-fixed");
+            header.removeClass("pos-fixed");
+            background.removeClass("bg-light").addClass("bg-dark");
           }
         });
       });
