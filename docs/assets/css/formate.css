@@ -46,6 +46,8 @@
 }
 .padding-navigationsleiste{
   padding: 0.5em 1em;
+  position: sticky;
+  top: 0;
 }
 @media (min-width: 992px){
 .padding-navigationsleiste{
