@@ -43,8 +43,8 @@
               <li class='nav-item dropdown {% if page.url contains "Unternehmen" %}active{% endif %}'>
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Unternehmen</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Standorte.html" class='dropdown-item {% if page.url contains "Standorte" %}active{% endif %}'>Standorte</a>
-                    <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Referenzen.html" class='dropdown-item {% if page.url contains "Referenzen" %}active{% endif %}'>Referenzen</a>
+                    <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Standorte.html" class='dropdown-item {% if page.url contains "Standorte" %}active{% endif %}'>{{page.url}}</a>
+                    <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Referenzen.html" class='dropdown-item {% if page.url contains "Referenzen" %}active{% endif %}'>{{baseurl}}</a>
                 </div>
               </li>
             </ul>
@@ -64,8 +64,8 @@
       </div>
       <div class="bg-light fußzeile">
         <div>
-          <a href="https://fprass99.github.io/homepage-testen/Impressum">{{page.url}}</a>
-          <a href="https://fprass99.github.io/homepage-testen/Datenschutz">{{baseurl}}</a>
+          <a href="https://fprass99.github.io/homepage-testen/Impressum">Impressum</a>
+          <a href="https://fprass99.github.io/homepage-testen/Datenschutz">Dateschutz</a>
         </div>
       </div>
       <script>
