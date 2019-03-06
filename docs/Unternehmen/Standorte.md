@@ -2,7 +2,7 @@
 menu_active_type: Unternehmen
 ---
 <div class="card border-secondary">
-    <div class="card-header text-center">
+    <div class="card-header schrift-zentrieren">
     <h2>Standort</h2>
     </div>
     <div class="row no-gutters">
@@ -12,7 +12,7 @@ menu_active_type: Unternehmen
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body text-center">
+            <div class="card-body schrift-zentrieren">
                 <h5 class="card-title">Bocholt (im Autohaus Herbrand)</h5>
                 <p class="card-text">
                     <strong>Anschrift:</strong><br>
@@ -34,7 +34,7 @@ menu_active_type: Unternehmen
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card-body text-center">
+            <div class="card-body schrift-zentrieren">
                 <h5 class="card-title">Kevelaer (im Autohaus Herbrand)</h5>
                 <p class="card-text">
                     <strong>Anschrift:</strong><br>
