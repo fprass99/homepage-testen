@@ -16,62 +16,58 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </head>
   <body>
-      <div class="wrapper container-fluid">
-          <div class="bg-dark">        
-            <nav class="navbar navbar-expand-lg navbar-light bg-dark padding-navigationsleiste">
-              <a class="navbar-brand" href="https://fprass99.github.io/homepage-testen">Logo</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-                
-                <div class="collapse navbar-collapse" id="basicExampleNav">
-                  <ul class="navbar-nav mr-auto ml-auto">
-                    <li class='nav-item {% if page.url contains "index" %}active{% endif %}'>
-                      <a class="nav-link" href="https://fprass99.github.io/homepage-testen">Home<span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class='nav-item dropdown {% if page.url contains "products" %}active{% endif %}'>
-                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Produkte
-                      </a>
-                      <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          
-                        {% for product in site.products %}
-                        <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}active{% endif %}">{{ product.slug }}</a>
-                        {% endfor %}
-                      </div>
-                      </li>
-                      <li class='nav-item {% if page.url contains "Support" %}active{% endif %}'>
-                        <a class="nav-link" href="https://fprass99.github.io/homepage-testen/Support.html">Support</a>
-                      </li>
-                      <li class='nav-item dropdown {% if page.url contains "Unternehmen" %}active{% endif %}'>
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Unternehmen
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Standorte.html" class='dropdown-item {% if page.url contains "Standorte" %}active{% endif %}'>Standorte</a>
-                            <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Referenzen.html" class='dropdown-item {% if page.url contains "Referenzen" %}active{% endif %}'>Referenzen</a>
-                        </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </nav>
-                </div> 
-              </div>
-
-            <div class="bildzeile bg-white" style="background-image:url({{ "/assets/img/Titelbild.jpg?v=" | append: site.github.build_revision | relative_url }})">
-            <div class="bildschrift">
-                <h1>Wir entwickeln Ihre EDV weiter</h1>
-              </div>
-            </div>
-        <div class="container container-inhalt mindest-höhe">
-          <div class="col-md-12 inhalt">
-            {{ content }}
+      <div class="wrapper container-fluid">      
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark padding-navigationsleiste">
+          <a class="navbar-brand" href="https://fprass99.github.io/homepage-testen">Logo</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            
+          <div class="collapse navbar-collapse" id="basicExampleNav">
+            <ul class="navbar-nav mr-auto ml-auto">
+              <li class='nav-item {% if page.url contains "index" %}active{% endif %}'>
+                <a class="nav-link" href="https://fprass99.github.io/homepage-testen">Home<span class="sr-only">(current)</span></a>
+              </li>
+              <li class='nav-item dropdown {% if page.url contains "products" %}active{% endif %}'>
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Produkte</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      
+                  {% for product in site.products %}
+                  <a href='{{site.baseurl}}{{product.url}}' class="dropdown-item {% if page.url contains product.url %}active{% endif %}">{{ product.slug }}</a>
+                  {% endfor %}
+                </div>
+              </li>
+              <li class='nav-item {% if page.url contains "Support" %}active{% endif %}'>
+                <a class="nav-link" href="https://fprass99.github.io/homepage-testen/Support.html">Support</a>
+              </li>
+              <li class='nav-item dropdown {% if page.url contains "Unternehmen" %}active{% endif %}'>
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Unternehmen</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Standorte.html" class='dropdown-item {% if page.url contains "Standorte" %}active{% endif %}'>Standorte</a>
+                    <a href="https://fprass99.github.io/homepage-testen/Unternehmen/Referenzen.html" class='dropdown-item {% if page.url contains "Referenzen" %}active{% endif %}'>Referenzen</a>
+                </div>
+              </li>
+            </ul>
           </div>
+        </nav> 
+      </div>
+
+      <div class="bildzeile bg-white" style="background-image:url({{ "/assets/img/Titelbild.jpg?v=" | append: site.github.build_revision | relative_url }})">
+        <div class="bildschrift">
+          <h1>Wir entwickeln Ihre EDV weiter</h1>
         </div>
-            <div class="bg-light fußzeile">
-              <div>
-                <a href="https://fprass99.github.io/homepage-testen/Impressum">Impressum</a>
-                <a href="https://fprass99.github.io/homepage-testen/Datenschutz">Datenschutz</a>
-              </div>
-            </div>
+      </div>
+      <div class="container container-inhalt mindest-höhe">
+        <div class="col-md-12 inhalt">
+          {{ content }}
+        </div>
+      </div>
+      <div class="bg-light fußzeile">
+        <div>
+          <a href="https://fprass99.github.io/homepage-testen/Impressum">Impressum</a>
+          <a href="https://fprass99.github.io/homepage-testen/Datenschutz">Datenschutz</a>
+        </div>
+      </div>
       <script>
         $(".bild-link").click(function(){
           window.open("https://fprass99.github.io/homepage-testen/assets/img/Werkstattplan.jpg"); 
