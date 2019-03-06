@@ -63,7 +63,7 @@ padding: 0.5em 20%;
 .img-height{
   max-height: 131px;
 }
-@media (max-width: 767px){
+@media screen and (max-width: 767px){
   .img-height{
     max-width: 150px;
     display: block;
