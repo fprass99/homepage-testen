@@ -97,7 +97,7 @@ menu_active_type: Unternehmen
             <div class="card-body schrift-zentrieren">
             <h5 class="card-title">Tip Top Autopflege GmbH</h5>
                 <p class="card-text">
-                    <strong><a href="hhttp://www.autopflege-tiptop.com/" target="_blank">www.autopflege-tiptop.com</a></strong>
+                    <strong><a href="http://www.autopflege-tiptop.com/" target="_blank">www.autopflege-tiptop.com</a></strong>
                 </p>
             </div>
         </div>           
