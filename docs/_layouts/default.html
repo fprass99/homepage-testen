@@ -16,7 +16,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </head>
   <body>
-      <div class="wrapper container-fluid pos-absolute">      
+      <div class="wrapper container-fluid">      
         <nav class="navbar navbar-expand-lg navbar-light bg-dark padding-navigationsleiste">
           <a class="navbar-brand" href="https://fprass99.github.io/homepage-testen">Logo</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -73,13 +73,13 @@
           window.open("https://fprass99.github.io/homepage-testen/assets/img/Werkstattplan.jpg"); 
       });
       $(function(){
-        var pos_absolute = $("pos-absolute");
+        var header = $("container-fluid");
         $(window).scroll(function(){
           var scroll = $(window).scrollTop();
-          if(scroll >= 200) {
-            pos_absolute.removeClass("pos-absolute").addClass("pos-fixed"); 
+          if(scroll >= 50) {
+            header.addClass("pos-fixed"); 
           } else {
-            pos_absolute.removeClass("pos-fixed").addClass("pos.absolute");
+            pos_absolute.removeClass("pos-fixed");
           }
         });
       });
