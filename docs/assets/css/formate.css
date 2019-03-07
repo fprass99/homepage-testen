@@ -59,7 +59,7 @@ padding: 0.5em 20%;
     background-color: white !important;
     position: fixed;
     top: 0;
-    transition: 0.8s;
+    transition: 1s;
 }
 }
 .bild-link:hover{
