@@ -86,6 +86,13 @@
           }
         });
       });
+      var fenster = $(window);
+      var header = $(".container-fluid");
+      if(fenster.width() < 992) {
+        header.removeClass("bg-dark").addClass("bg-light")
+      } else {
+        header.removeClass("bg-light").addClass("bg-dark")
+      }
       </script>
       <header>
        
