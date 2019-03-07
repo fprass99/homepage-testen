@@ -52,6 +52,7 @@
 @media (min-width: 992px){
 .padding-navigationsleiste{
 padding: 0.5em 20%;
+background-color: white;
   }
 }
 .bild-link:hover{
