@@ -38,7 +38,7 @@
   z-index: 99;
   position: absolute;
   top: 0;
-  transition: 3s;
+  transition: 0.8s;
 }
 .container-inhalt{
   max-width: 1280px;
@@ -52,8 +52,15 @@
 @media (min-width: 992px){
 .padding-navigationsleiste{
 padding: 0.5em 20%;
-background-color: white !important;
-  }
+}
+}
+@media (max-width: 991px){
+  .padding-navigationsleiste{
+    background-color: white !important;
+    position: fixed;
+    top: 0;
+    transition: 0.8s;
+}
 }
 .bild-link:hover{
   cursor: pointer;
@@ -92,5 +99,5 @@ background-color: white !important;
 .pos-fixed{
   position: fixed;
   top: 0;
-  transition: 3s;
+  transition: 0.8s;
 }
