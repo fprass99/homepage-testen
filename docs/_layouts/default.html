@@ -89,7 +89,7 @@
       $(function(){
       var fenster = $(window);
       var background  = $(".bg-dark");
-      if(fenster.width() < 992) {
+      if(fenster.innerWidth() < 992) {
         background.removeClass("bg-dark").addClass("bg-light")
       } else {
         background.removeClass("bg-light").addClass("bg-dark")
